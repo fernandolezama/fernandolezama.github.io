@@ -7,21 +7,21 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Journal Papers
+## Refereed Journal Papers (12)
 
 ### 2019
 
-12. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf)
+* Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf). IF: 4.9
 
 ### 2018
 
-11. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., & Vale, Z.: Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems. In IEEE Transactions on Power Systems, In press. (2018). IF: 5.26
+11. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., & Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/abstract/document/8411502), [(pdf)](pdf/flc-TPWRS2018.pdf)[(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites). IF: 5.26
+
+10. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650218300592), [(pdf)](pdf/flc-SWEVO2018.pdf)[(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/). IF: 3.81
 
 10. Soares, J., Lezama, F., Pinto, T., & Morais, H.: Complex Optimization and Simulation in Power Systems. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
 
 9. Soares, J., Pinto, T., Lezama, F., & Morais, H.: Survey on Complex Optimization and Simulation for the New Power Systems Paradigm. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
-
-8. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., Elrich, I.: 2017 competition on modern heuristic optimizers for smart grid operation: Testbeds and results. In Swarm and Evolutionary Computation, In press. Elsevier (2018). IF: 3.81
 
 7. Ansel Y Rodríguez-González, Fernando Lezama, Carlos A Iglesias-Alvarez, José Fco Martínez-Trinidad, Jesús A Carrasco-Ochoa, Enrique Munoz de Cote: Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss. In Expert Systems with Applications, accepted for publication. Elsevier (2017). IF: 3.76
 
@@ -76,38 +76,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 * Ryoji Tanabe and Akira Oyama: **The Impact of Population Size, Number of Children, and Number of Reference Points on The Performance of NSGA-III**, Proc. Evolutionary Multi-Criterion Optimization [(EMO2017)](http://www.emo2017.org/), [(pdf)](pdf/to-emo2017.pdf)
   
-### 2016
 
-* Ryoji Tanabe and Alex Fukunaga: **How Far Are We From an Optimal, Adaptive DE?**, Proc. Parallel Problem Solving from Nature [(PPSN2016)](http://www.ppsn2016.org/conference/) [(pdf)](pdf/tf-ppsn16.pdf), [(supplemental-pdf)](pdf/tf-ppsn16-supp.pdf)
-
-### 2015
-    
-* Ryoji Tanabe: **A Note on Multi-Funnel Functions for Expensive Optimization Scenario**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2015)](http://www.sigevo.org/gecco-2015/index.html), two-page poster paper, [(pdf)](pdf/t-gecco2015.pdf)
-
-* Ryoji Tanabe and Alex Fukunaga: **Tuning Differential Evolution for Cheap, Medium, and Expensive Computational Budgets**, Proc. IEEE Congress on Evolutionary Computation [(CEC2015)](http://sites.ieee.org/cec2015/), [(pdf)](pdf/tf-cec2015.pdf)
-
-* Claus de Castro Aranha, Ryoji Tanabe, Romain Chassagne, Alex Fukunaga: **Optimization of Oil Reservoir Models Using Tuned Evolutionary Algorithms and Adaptive Differential Evolution**, Proc. IEEE Congress on Evolutionary Computation [(CEC2015)](http://sites.ieee.org/cec2015/), [(pdf)](pdf/atcf-cec2015.pdf)
-
-### 2014
-
-* Ryoji Tanabe and Alex Fukunaga: **Reevaluating Exponential Crossover in Differential Evolution**, Proc. Parallel Problem Solving from Nature [(PPSN2014)](http://ppsn2014.ijs.si/), [(pdf)](pdf/tf-ppsn2014.pdf), [(supplemental pdf)](pdf/tf-ppsn2014-supp.pdf)
-
-* Ryoji Tanabe and Alex Fukunaga: **On the Pathological Behavior of Adaptive Differential Evolution on Hybrid Objective Functions**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2014)](http://www.sigevo.org/gecco-2014/), [(pdf)](pdf/tf-gecco2014.pdf), [(supplemental pdf)](pdf/tf-gecco2014-supp.pdf)
-
-* Ryoji Tanabe and Alex Fukunaga: **Improving the Search Performance of SHADE Using Linear Population Size Reduction**, Proc. IEEE Congress on Evolutionary Computation [(CEC2014)](http://www.ieee-wcci2014.org/), [(pdf)](pdf/tf-cec2014.pdf)
-  * L-SHADE was a first ranked algorithm at the CEC2014 Competition on Real-Parameter Single Objective Optimization [(link)](http://www3.ntu.edu.sg/home/EPNSugan/index_files/CEC2014/CEC2014.htm).
-  * Experimental data used in this paper are [here](expdata/Tanabe-CEC14-results.zip)
-  * Originally submitted source code of L-SHADE 1.0.0: [(C++ code)](code/LSHADE1.0.0_CEC2014.zip)
   * Please note that this C++ code (also available at the competition website) was submitted to the CEC2014 competition. However, this code had a bug in the archive update mechanism which resulted in a slight performance degradation, but all constraints were satisfied and all solutions found were valid. For better results, please use the corrected version below:
     * Fixed source code of L-SHADE 1.0.1: [(C++ code)](code/LSHADE1.0.1_CEC2014.zip), [(Matlab/Octave code)](code/LSHADE1.0.1_CEC2014_Octave-Matlab.zip), [(Java code)](code/LSHADE1.0.1_CEC2014_Java.zip)
     * Fixed source code of SHADE 1.1.1: [(C++ code)](code/SHADE1.1.1_CEC2014_c++.zip), [(Matlab/Octave code)](code/SHADE1.1.1_CEC2014_Matlab_Octave.zip), [(Java code)](code/SHADE1.1.1_CEC2014_Java.zip)
-
-### 2013
-
-* Ryoji Tanabe and Alex Fukunaga: **Evaluation of a Randomized Parameter Setting Strategy for Island-Model Evolutionary Algorithms**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](tf-cec2013-rhim.pdf)
-
-* Ryoji Tanabe and Alex Fukunaga: **Success-History Based Parameter Adaptation for Differential Evolution**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](tf-cec2013-shade.pdf)
-    * [(C++ code)](code/SHADE1.1.1_CEC2014_c++.zip), [(Matlab/Octave code)](code/SHADE1.1.1_CEC2014_Matlab_Octave.zip), [(Java code)](code/SHADE1.1.1_CEC2014_Java.zip)
-
-* Ryoji Tanabe and Alex Fukunaga: **Evaluating the performance of SHADE on CEC 2013 benchmark problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2013)](http://www.cec2013.org/), [(pdf)](pdf/tf-cec2013-compe.pdf)
-  * SHADE 1.0 was a fourth ranked algorithm out of the 21 entries at the CEC2013 Competition on Real-Parameter Single Objective Optimization. (link)
