@@ -11,31 +11,41 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
-* Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf). IF: 4.9
+12\. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf). IF: 4.9
 
 ### 2018
 
-11. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., & Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/abstract/document/8411502), [(pdf)](pdf/flc-TPWRS2018.pdf)[(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites). IF: 5.26
+11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., & Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/abstract/document/8411502), [(pdf)](pdf/flc-TPWRS2018.pdf)[(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites). IF: 5.26
 
-10. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650218300592), [(pdf)](pdf/flc-SWEVO2018.pdf)[(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/). IF: 3.81
+10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650218300592), [(pdf)](pdf/flc-SWEVO2018.pdf)[(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/). IF: 3.81
 
-10. Soares, J., Lezama, F., Pinto, T., & Morais, H.: Complex Optimization and Simulation in Power Systems. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
+9\. Soares, J., Lezama, F., Pinto, T., & Morais, H.: Complex Optimization and Simulation in Power Systems. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
 
-9. Soares, J., Pinto, T., Lezama, F., & Morais, H.: Survey on Complex Optimization and Simulation for the New Power Systems Paradigm. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
+8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: Survey on Complex Optimization and Simulation for the New Power Systems Paradigm. In Complexity, In press. Hindawi/Wiley (2018). IF: 1.83
 
-7. Ansel Y Rodríguez-González, Fernando Lezama, Carlos A Iglesias-Alvarez, José Fco Martínez-Trinidad, Jesús A Carrasco-Ochoa, Enrique Munoz de Cote: Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss. In Expert Systems with Applications, accepted for publication. Elsevier (2017). IF: 3.76
+### 2017
 
-6. Lezama, F.; Palominos, J.; Rodriguez-Gonzalez, A. Y.; Farinelli, A.; Munoz de Cote, Enrique.: Agent-Based Microgrid Scheduling: An ICT Perspective. In Mobile Networks and Applications, accepted for publication. Springer (2017). IF: 2.49
+7\. Ansel Y Rodríguez-González, Fernando Lezama, Carlos A Iglesias-Alvarez, José Fco Martínez-Trinidad, Jesús A Carrasco-Ochoa, Enrique Munoz de Cote: Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss. In Expert Systems with Applications, accepted for publication. Elsevier (2017). IF: 3.76
 
-5. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: Differential evolution optimization applied to the Routing and spectrum allocation in flexgrid optical networks. Photonic Network Communications, 31 (1), pp. 129-146. Springer (2016). IF: 1.21
+6\. Lezama, F.; Palominos, J.; Rodriguez-Gonzalez, A. Y.; Farinelli, A.; Munoz de Cote, Enrique.: Agent-Based Microgrid Scheduling: An ICT Perspective. In Mobile Networks and Applications, accepted for publication. Springer (2017). IF: 2.49
 
-4. Lezama, F., Castañón, G., Sarmiento, A. M., Callegati, F., Cerroni, W.: Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization. Photonic Network Communications, 28(3), pp. 306-319. Springer (2014). IF: 0.79
+### 2016
 
-3. Callegati, F., Bonani, L., Lezama, F., Cerroni, W., Campi, A., Castanón, G.: Trunk Reservation for Fair Utilization in Flexible Optical Networks. IEEE Communications Letters. 18(5), pp. 889-892, IEEE (2014). IF: 1.27
+5\. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: Differential evolution optimization applied to the Routing and spectrum allocation in flexgrid optical networks. Photonic Network Communications, 31 (1), pp. 129-146. Springer (2016). IF: 1.21
 
-2. Lezama, F., Castañón, G., Sarmiento, A. M.: Routing and wavelength assignment in all optical networks using differential evolution optimization. Photonic Network Communications. 26(2-3), pp. 103-119, Springer (2013). IF: 0.75
+### 2014
 
-1. Lezama, F., Castañón, G., Sarmiento, A. M.: Differential evolution optimization applied to the wavelength converters placement problem in all optical networks. Computer Networks, 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23
+4\. Lezama, F., Castañón, G., Sarmiento, A. M., Callegati, F., Cerroni, W.: Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization. Photonic Network Communications, 28(3), pp. 306-319. Springer (2014). IF: 0.79
+
+3\. Callegati, F., Bonani, L., Lezama, F., Cerroni, W., Campi, A., Castanón, G.: Trunk Reservation for Fair Utilization in Flexible Optical Networks. IEEE Communications Letters. 18(5), pp. 889-892, IEEE (2014). IF: 1.27
+
+### 2013
+
+2\. Lezama, F., Castañón, G., Sarmiento, A. M.: Routing and wavelength assignment in all optical networks using differential evolution optimization. Photonic Network Communications. 26(2-3), pp. 103-119, Springer (2013). IF: 0.75
+
+### 2012
+
+1\. Lezama, F., Castañón, G., Sarmiento, A. M.: Differential evolution optimization applied to the wavelength converters placement problem in all optical networks. Computer Networks, 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23
 
 ### not mine
 
