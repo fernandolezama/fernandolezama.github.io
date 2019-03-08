@@ -1,0 +1,16 @@
+# - name: "Contact"
+#  link: "contact"
+
+#- name: "Resume"
+# link: "resume.pdf"
+
+
+
+- name: "Publication"
+  link: "publication"
+
+- name: "About"
+  link: "about"
+
+- name: "Home"
+  link: "/"
