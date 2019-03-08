@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Ryoji Tanabe's Homepage
+title: Fernando Lezama's Homepage
 ---
 
-Please also see [Google Scholar](https://scholar.google.co.jp/citations?user=xze7scoAAAAJ&hl=en) or [DBLP](http://dblp.uni-trier.de/pers/hd/t/Tanabe:Ryoji). All articles that can be downloaded from this page are accepted versions, not final published versions.
+Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
 ---
 
 ## Refereed Journal Papers
 
 ### 2019
+
+* Bruno Canizes, Joao Soares, Fernando Lezama, Catia Silva, Zita Vale, and Juan M.Corchado: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf)
 
 * Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
