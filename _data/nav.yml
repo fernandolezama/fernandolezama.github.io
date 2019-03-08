@@ -11,6 +11,9 @@
 
 - name: "About"
   link: "about"
+  
+- name: "SG competitions"
+  link: "sgcomp"
 
 - name: "Home"
   link: "/"
