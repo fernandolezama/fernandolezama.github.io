@@ -1,6 +1,6 @@
 title: Fernando Lezama's Homepage
 url: "https://fernandolezama.github.io"
-baseurl: ""https://fernandolezama.github.io""
+#baseurl: ""https://fernandolezama.github.io""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
