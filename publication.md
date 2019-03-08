@@ -15,13 +15,13 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2018
 
-11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., and Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59), IEEE (2018). IF: 5.26. [(link)](https://ieeexplore.ieee.org/abstract/document/8411502) [(pdf)](pdf/flc-TPWRS2018.pdf) [(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites)
+11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., and Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59), IEEE (2018). IF: 5.26. [(link)](https://ieeexplore.ieee.org/abstract/document/8411502) [(pdf)](pdf/flc-TPWRS2018.pdf) [(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites) (<span style="color:#C31D1D;">open access</span>)
 
-10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation] (https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [(link)](https://www.sciencedirect.com/science/article/pii/S2210650218300592) [(pdf)](pdf/flc-SWEVO2018.pdf) [(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
+10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [(link)](https://www.sciencedirect.com/science/article/pii/S2210650218300592) [(pdf)](pdf/flc-SWEVO2018.pdf) [(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
 
-9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/6562876/) (open access)
+9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/6562876/) (<span style="color:#C31D1D;">open access</span>)
 
-8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)] (https://www.hindawi.com/journals/complexity/2018/2340628/) (open access)
+8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/2340628/) (<span style="color:#C31D1D;">open access</span>)
 
 ### 2017
 
@@ -31,21 +31,21 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2016
 
-5\. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: Differential evolution optimization applied to the Routing and spectrum allocation in flexgrid optical networks. Photonic Network Communications, 31 (1), pp. 129-146. Springer (2016). IF: 1.21
+5\. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: **Differential evolution optimization applied to the Routing and spectrum allocation in flexgrid optical networks**, [Photonic Network Communications](https://link.springer.com/journal/11107), 31 (1), pp. 129-146. Springer (2016). IF: 1.21. [(link)](https://link.springer.com/article/10.1007/s11107-015-0558-3) [(pdf)]()
 
 ### 2014
 
-4\. Lezama, F., Castañón, G., Sarmiento, A. M., Callegati, F., Cerroni, W.: Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization. Photonic Network Communications, 28(3), pp. 306-319. Springer (2014). IF: 0.79
+4\. Lezama, F., Castañón, G., Sarmiento, A. M., Callegati, F., Cerroni, W.: **Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization**, [Photonic Network Communications](https://link.springer.com/journal/11107), 28(3), pp. 306-319. Springer (2014). IF: 0.79. [(link)](https://link.springer.com/article/10.1007/s11107-014-0455-1) [(pdf)]()
 
-3\. Callegati, F., Bonani, L., Lezama, F., Cerroni, W., Campi, A., Castanón, G.: Trunk Reservation for Fair Utilization in Flexible Optical Networks. IEEE Communications Letters. 18(5), pp. 889-892, IEEE (2014). IF: 1.27
+3\. Callegati, F., Bonani, L., Lezama, F., Cerroni, W., Campi, A., Castanón, G.: **Trunk Reservation for Fair Utilization in Flexible Optical Networks**, [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234). 18(5), pp. 889-892, IEEE (2014). IF: 1.27. [(link)](https://ieeexplore.ieee.org/abstract/document/6787150) [(pdf)]()
 
 ### 2013
 
-2\. Lezama, F., Castañón, G., Sarmiento, A. M.: Routing and wavelength assignment in all optical networks using differential evolution optimization. Photonic Network Communications. 26(2-3), pp. 103-119, Springer (2013). IF: 0.75
+2\. Lezama, F., Castañón, G., Sarmiento, A. M.: **Routing and wavelength assignment in all optical networks using differential evolution optimization**, [Photonic Network Communications](https://link.springer.com/journal/11107). 26(2-3), pp. 103-119, Springer (2013). IF: 0.75. [(link)](https://link.springer.com/article/10.1007/s11107-013-0413-3) [pdf]()
 
 ### 2012
 
-1\. Lezama, F., Castañón, G., Sarmiento, A. M.: Differential evolution optimization applied to the wavelength converters placement problem in all optical networks. Computer Networks, 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23
+1\. Lezama, F., Castañón, G., Sarmiento, A. M.: **Differential evolution optimization applied to the wavelength converters placement problem in all optical networks**, [Computer Networks](https://www.journals.elsevier.com/computer-networks), 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23. [(link)](https://www.sciencedirect.com/science/article/pii/S1389128612001181) [(pdf)]()
 
 ---
 
