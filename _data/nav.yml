@@ -5,15 +5,14 @@
 # link: "resume.pdf"
 
 
-
-- name: "Publications"
-  link: "publication"
+- name: "Home"
+  link: "/"
 
 - name: "About"
   link: "about"
+
+- name: "Publications"
+  link: "publication"
   
 - name: "SG competitions"
   link: "sgcomp"
-
-- name: "Home"
-  link: "/"
