@@ -11,23 +11,23 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
-12\. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.journals.elsevier.com/renewable-energy), Elsevier (2019). IF: 4.90. [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf). Elsevier (2019)
+12\. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.journals.elsevier.com/renewable-energy), Elsevier (2019). IF: 4.90. [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508) [(pdf)](pdf/bc-RENE2019.pdf)
 
 ### 2018
 
-11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., and Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59), IEEE (2018). IF: 5.26. [link](https://ieeexplore.ieee.org/abstract/document/8411502) [(pdf)](pdf/flc-TPWRS2018.pdf)[(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites)
+11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., and Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59), IEEE (2018). IF: 5.26. [(link)](https://ieeexplore.ieee.org/abstract/document/8411502) [(pdf)](pdf/flc-TPWRS2018.pdf) [(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites)
 
-10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation] (https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [link](https://www.sciencedirect.com/science/article/pii/S2210650218300592)[(pdf)](pdf/flc-SWEVO2018.pdf)[(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
+10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation] (https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [(link)](https://www.sciencedirect.com/science/article/pii/S2210650218300592) [(pdf)](pdf/flc-SWEVO2018.pdf) [(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
 
-9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [link](https://www.hindawi.com/journals/complexity/2018/6562876/)
+9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/6562876/) (open access)
 
-8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [link] (https://www.hindawi.com/journals/complexity/2018/2340628/)
+8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)] (https://www.hindawi.com/journals/complexity/2018/2340628/) (open access)
 
 ### 2017
 
-7\. Ansel Y Rodríguez-González, Fernando Lezama, Carlos A Iglesias-Alvarez, José Fco Martínez-Trinidad, Jesús A Carrasco-Ochoa, Enrique Munoz de Cote: Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss. In Expert Systems with Applications, accepted for publication. Elsevier (2017). IF: 3.76
+7\. Rodriguez-Gonzalez, A. Y., Lezama, F., Iglesias-Alvarez, C. A., Martínez-Trinidad, J. F., Carrasco-Ochoa, J. A., and Munoz de Cote, E.: **Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss**, [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications), Elsevier (2017). IF: 3.76. [(link)](https://www.sciencedirect.com/science/article/pii/S0957417417308345) [(pdf)]()
 
-6\. Lezama, F.; Palominos, J.; Rodriguez-Gonzalez, A. Y.; Farinelli, A.; Munoz de Cote, Enrique.: Agent-Based Microgrid Scheduling: An ICT Perspective. In Mobile Networks and Applications, accepted for publication. Springer (2017). IF: 2.49
+6\. Lezama, F., Palominos, J., Rodriguez-Gonzalez, A. Y., Farinelli, A., and Munoz de Cote, E.: **Agent-Based Microgrid Scheduling: An ICT Perspective**, [Mobile Networks and Applications](https://link.springer.com/journal/11036), Springer (2017). IF: 2.49. [(link)](https://link.springer.com/article/10.1007/s11036-017-0894-x) [(pdf)]()
 
 ### 2016
 
