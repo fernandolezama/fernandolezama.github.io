@@ -1,6 +1,6 @@
 title: Fernando Lezama's Homepage
 url: "https://fernandolezama.github.io"
-baseurl: "/researcher"
+#baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -14,11 +14,3 @@ footer_text: "Page design by Fernando Lezama"
 sass:
     style: compressed
     sass_dir: _sass
-
-nav:
- - name: "Home"
-   link: "/researcher/"
- - name: "About"
-   link: "resume.pdf"
- - name: "Publication"
-   link: "publication"
