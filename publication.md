@@ -47,46 +47,63 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 1\. Lezama, F., Castañón, G., Sarmiento, A. M.: Differential evolution optimization applied to the wavelength converters placement problem in all optical networks. Computer Networks, 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23
 
-### not mine
-
-* Bruno Canizes, Joao Soares, Fernando Lezama, Catia Silva, Zita Vale, and Juan M.Corchado: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508), [(pdf)](pdf/bc-RENE2019.pdf)
-
-* Ryoji Tanabe and Alex Fukunaga: **Reviewing and Benchmarking Parameter Control Methods in Differential Evolution**, [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [(link)](https://ieeexplore.ieee.org/document/8626758), [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
-
-* Ryoji Tanabe and Hisao Ishibuchi: **Review and Analysis of Three Components of the Differential Evolution Mutation Operator in MOEA/D-DE**, [Soft Computing](https://link.springer.com/journal/500), [(link)](https://link.springer.com/article/10.1007%2Fs00500-019-03842-6), [(pdf)](pdf/ti-soco2019.pdf), [(supplemental-pdf)](pdf/ti-soco2019-supp.pdf)
-
-### 2018
-
-* Ryoji Tanabe and Hisao Ishibuchi: **An Analysis of Control Parameters of MOEA/D Under Two Different Optimization Scenarios**, [Applied Soft Computing](https://www.journals.elsevier.com/applied-soft-computing/) [(link)](https://www.sciencedirect.com/science/article/pii/S1568494618302771), [(pdf)](pdf/ti-moead-asoc18.pdf), [(supplemental-pdf)](pdf/ti-moead-asoc18-supp.pdf)
-
-### 2017 
-
-* Ryoji Tanabe, Hisao Ishibuchi, and Akira Oyama: **Benchmarking Multi- and Many-objective Evolutionary Algorithms under Two Optimization Scenarios**, IEEE Access [(link-to-pdf)](http://ieeexplore.ieee.org/document/8031325/), [(supplemental-website)](https://sites.google.com/site/benchmarkingmoeas/)
-   * This paper is an extended version of our GECCO2017 paper
-
 ---
 
-## Refereed Conference Papers
+## Refereed Conference Papers (19)
 
 ### 2018
 
-*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
-   * <span style="color:#C31D1D;">Nominated for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)</span> 
+19/. Lezama, F., Soares, J., and Vale, Z.: A platform for testing the performance of metaheuristics solving the energy resource management problem in smart grids. In [Energy Informatics 2018](https://doi.org/10.1186/s42162-018-0046-y) (Suppl 1) :35
 
-### 2017 
+18/. Sousa, T., Lezama, F., Soares, J., Ramos, S., Vale, Z.: A Flexibility Home Energy Management System to Support Agreggator Requests in Smart Grids. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018 (Accepted).
 
-*  Ryoji Tanabe and Alex Fukunaga: **TPAM: A Simulation-Based Model for Quantitatively Analyzing Parameter Adaptation Methods**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/tf-gecco2017.pdf), [(supplemental-pdf)](pdf/tf-gecco2017-supp.pdf), [(slide)](pdf/tf-gecco2017-slide.pdf)
-   * <span style="color:#C31D1D;">Nominated for the best paper at [GECCO2017](http://gecco-2017.sigevo.org/)</span> 
+17/. Faia, R., Pinto, T., Vale, Z., Corchado, J.M., Soares, J., Lezama, F.: Genetic Algorithms for Portfolio Optimization with Weighted Sum Approach. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018 (Accepted).
 
-* Ryoji Tanabe and Akira Oyama: **Benchmarking MOEAs for Multi- and Many-objective Optimization Using an Unbounded External Archive**, Proc. ACM Genetic and Evolutionary Computation Conference [(GECCO2017)](http://gecco-2017.sigevo.org/), [(pdf)](pdf/to-gecco2017.pdf), [(supplemental-pdf)](pdf/to-gecco2017-supp.pdf), [(slide)](pdf/to-gecco2017-slide.pdf)
-  * Experimental data used in this paper can be downloaded from [here](https://sites.google.com/site/benchmarkingmoeas/)
+16/. Lezama, F., Soares, J., Faia, R., Pinto, T., and Vale, Z.: A New Hybrid-Adaptive Differential Evolution for a Smart Grid Application Under Uncertainty. In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
 
-* Ryoji Tanabe and Akira Oyama: **A Note on Constrained Multi-Objective Optimization Benchmark Problems**, Proc. IEEE Congress on Evolutionary Computation [(CEC2017)](http://www.cec2017.org/), [(pdf)](pdf/to-cec2017.pdf)
-  * The source code of seven (six) real-world problems can be downloaded from [here](code/jmetal-rwlps.zip)
+15/. Faia, R., Lezama, F., Pinto, T., Soares, J., Vale, Z., and Corchado, J.M.: Differential Evolution Application in Portfolio Optimization for Electricity Markets In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
 
-* Ryoji Tanabe and Akira Oyama: **The Impact of Population Size, Number of Children, and Number of Reference Points on The Performance of NSGA-III**, Proc. Evolutionary Multi-Criterion Optimization [(EMO2017)](http://www.emo2017.org/), [(pdf)](pdf/to-emo2017.pdf)
-  
+14/. Soares, J., Lezama, F., Canizes, B., Fotouhi, M.A., and Vale, Z.: Day-ahead stochastic scheduling model considering market transactions in smart grids, Power System Computation Conference (PSCC), Dublin, Ireland 11-15 June 2018.
 
-  * Please note that this C++ code (also available at the competition website) was submitted to the CEC2014 competition. However, this code had a bug in the archive update mechanism which resulted in a slight performance degradation, but all constraints were satisfied and all solutions found were valid. For better results, please use the corrected version below:
-    * Fixed source code of L-SHADE 1.0.1: [(C++ code)](code/LSHADE1.0.1_CEC2014.zip), [(Matlab/Octave code)](code/LSHADE1.0.1_CEC2014_Octave-Matlab.zip), [(Java code)](code/LSHADE1.0.1_CEC2014_Java.zip)
-    * Fixed source code of SHADE 1.1.1: [(C++ code)](code/SHADE1.1.1_CEC2014_c++.zip), [(Matlab/Octave code)](code/SHADE1.1.1_CEC2014_Matlab_Octave.zip), [(Java code)](code/SHADE1.1.1_CEC2014_Java.zip)
+### 2017
+
+13/. Soares, J., Lezama, F., Ramos, S., Vale, Z., and Lopes, A.: A Residential Energy Management System with Offline Population-Based Optimization, In IEEE Symposium Series on Computational Intelligence (SSCI), Hawaii, USA, December 2017.
+
+12/. Lezama, F., Munoz de Cote, E., Sucar, L.E., Soares, J., and Vale, Z.: Evolutionary framework for multi-dimensional signaling method applied to energy dispatch problems in smart grids, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
+
+11/. Soares, J., Lezama, F., Vale, Z., Borges, N., and Kagan, N.: Multi-objective robust optimization to solve energy scheduling in buildings under uncertainty, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
+
+10/. Lezama, F., Soares, J., Munoz de Cote, E., Sucar, L. E., and Vale, Z.: Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids, In I Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO, Berlin, Germany, July 2017.
+
+### 2016
+
+9/. Lezama, F., Rodriguez-González, A.Y., and Munoz de Cote, E.: Load Pattern Clustering using Differential Evolution with Pareto Tournament, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Vancouver, Canada, July 2016.
+
+8/. Lezama, F., Palominos, J., Rodriguez-González, A. Y., Farinelli, A., and Munoz de Cote, E.: Optimal Scheduling of on/off Cycles: A Decentralized IoT Microgrid Approach, In EAI International Conference on Future Internet and Internet of Things Applications (FIoTA), Puebla, Mexico, May 2016.
+
+7/. Del-Valle-Soto, C., Lezama, F., Rodriguez, J., Mex-Perera, C., Munoz de Cote, E.: MLR-WSN: a Multi-layer Reconfigurable Wireless Sensor Network Simulator, In EAI International Conference on Future Internet and Internet of Things Applications (FIoTA), Puebla, Mexico, May 2016.
+
+6/. Lezama, F., Rodriguez-González, A. Y., Munoz de Cote, E., and Sucar, L. E.: Electrical Load Pattern Shape Clustering Using Ant Colony Optimization, in European Conference on the Applications of Evolutionary Computation, pp. 491-506, Porto, Portugal, March 2016.
+
+### 2014
+
+5/. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: Routing and spectrum allocation in flexgrid optical networks using differential evolution optimization. In: Proc. of 16th International Conference on Transparent Optical Networks (ICTON), paper Th.B3.5, Graz, Austria, July 2014.
+
+4/. Martins, I. B., Castañón, G., Lezama, F, and Aldaya, I.: Impact of Spectral Width on Signal Transmission Distance in Elastic Optical Network. In: Proc. of 16th International Conference on Transparent Optical Networks (ICTON), paper Tu.P.19, Graz, Austria, July 2014.
+
+### 2013
+
+3/. Lezama, F., Callegati, F., Cerroni, W., Bonani, L. H.: Trunk reservation for elastic optical networks. In: Proc. of 15th International Conference on Transparent Optical Networks (ICTON), paper Tu.C1.1, Cartagena, Spain, June 2013.
+
+2/. Lezama, F., Castañón, G., Sarmiento, A. M.: Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization. In: Proc. of 15th International Conference on Transparent Optical Networks (ICTON), paper Th.A3.4, Cartagena, Spain, June 2013.
+
+### 2010
+
+1/. Castañón, G., Lezama, F., Sarmiento, A. M.: Wavelength converters placement in all optical networks using differential evolution optimization. In: Proceedings of the International Conference on Evolutionary Computation (ICEC), pp. 340–343, Valencia, Spain, 2010.
+
+
+
+
+<!--*  Ryoji Tanabe and Hisao Ishibuchi: **A Decomposition-based Evolutionary Algorithm for Multi-modal Multi-objective Optimization**, Proc. Parallel Problem Solving from Nature [(PPSN2018)](http://ppsn2018.dei.uc.pt/) [(pdf)](pdf/ti-moeadad-ppsn18.pdf), [(code)](code/moeadad-1.0.tar.gz)
+   * <span style="color:#C31D1D;">Nominated for the best paper at [PPSN2018](http://ppsn2018.dei.uc.pt/)</span> -->
+
