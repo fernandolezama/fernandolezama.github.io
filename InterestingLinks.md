@@ -4,4 +4,4 @@ I used some of them to understand in a simple way very complicated topics. This 
 
 Locational Marginal Pricing [(simple explanation)](https://vimeo.com/243006345)
 
-Game Theory ([Introductory course])(https://www.youtube.com/channel/UC73W1eqdxKPwr2OlfkMhQkQ)
+Game Theory [(Introductory course)](https://www.youtube.com/channel/UC73W1eqdxKPwr2OlfkMhQkQ)
