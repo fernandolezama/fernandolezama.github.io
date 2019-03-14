@@ -2,4 +2,6 @@ Here, I put a list of illustrative videos of topics related to optimization in s
 
 I used some of them to understand in a simple way very complicated topics. This are just illustrative examples, not depth studies.
 
-Locational Marginal Pricing [(link)](https://vimeo.com/243006345)
+Locational Marginal Pricing [(simple explanation)](https://vimeo.com/243006345)
+
+Game Theory ([Introductory course])(https://www.youtube.com/channel/UC73W1eqdxKPwr2OlfkMhQkQ)
