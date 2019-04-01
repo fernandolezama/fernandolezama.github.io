@@ -6,7 +6,7 @@ title: Fernando Lezama's Homepage
 
 ## NEWS
 
-* 8 march 2019: I am getting how to work on this !!!
+* Program Committee for the [7th International Workshop on Multi-agent Based Applications for Smart Grids and Sustainable Energy Systems](https://www.paams.net/workshops/masges), collocated with the [17th International Conference on Practical Applications of Agents and Multi-Agent Systems](https://www.paams.net/)
 
 * 6 February 2019: Our paper has been accepted to [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508):
     * Bruno Canizes, Joao Soares, Fernando Lezama, Catia Silva, Zita Vale, and Juan M.Corchado: Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation. [(pdf)](pdf/bc-RENE2019.pdf)
