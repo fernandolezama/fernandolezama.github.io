@@ -7,3 +7,5 @@ Locational Marginal Pricing [(simple explanation)](https://vimeo.com/243006345)
 Game Theory [(Introductory course)](https://www.youtube.com/channel/UC73W1eqdxKPwr2OlfkMhQkQ)
 
 Understanding Hypothesis Tests: Significance Levels (Alpha) and P values in Statistics [(Intuitive Explanation)](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-significance-levels-alpha-and-p-values-in-statistics)
+
+Difference between HAN and HEMS [and easy to read information] (http://www.smartgridlibrary.com/2009/12/14/the-difference-between-hems-and-hans/)
