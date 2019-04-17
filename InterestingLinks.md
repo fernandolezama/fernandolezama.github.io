@@ -9,3 +9,6 @@ Game Theory [(Introductory course)](https://www.youtube.com/channel/UC73W1eqdxKP
 Understanding Hypothesis Tests: Significance Levels (Alpha) and P values in Statistics [(Intuitive Explanation)](http://blog.minitab.com/blog/adventures-in-statistics-2/understanding-hypothesis-tests-significance-levels-alpha-and-p-values-in-statistics)
 
 Difference between HAN and HEMS [and easy to read information] (http://www.smartgridlibrary.com/2009/12/14/the-difference-between-hems-and-hans/)
+
+
+PAst tense for literature review [blog information](https://www.editage.com/insights/what-tense-should-i-use-when-writing-a-literature-review)
