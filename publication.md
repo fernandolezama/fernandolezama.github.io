@@ -11,6 +11,8 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
+13\. Canizes, B., Soares, J., Costa, A., Pinto T., Lezama, F., Novais, P., Vale, Z.: **Electric Vehicles’ User Charging Behaviour Simulator for a Smart City**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/12/8/1470)
+
 12\. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.journals.elsevier.com/renewable-energy), Elsevier (2019). IF: 4.90. [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508) [(pdf)](pdf/bc-RENE2019.pdf)
 
 ### 2018
