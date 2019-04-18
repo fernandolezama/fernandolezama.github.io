@@ -53,6 +53,17 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ## Refereed Conference Papers (19)
 
+### 2019
+
+23. Business Models for Flexibility of Electric Vehicles: Evolutionary Computation
+for a Successful Implementation
+
+22. Hybrid-Adaptive Differential Evolution with Decay Function(HyDE-DF) Applied to the 100-Digit Challenge Competition onSingle Objective Numerical Optimization
+
+21. A Short Review on Data Mining Techniques for Electricity Customers Characterization
+
+20. A Short Review on Smart Building Energy Resource Optimization
+
 ### 2018
 
 19\. Lezama, F., Soares, J., and Vale, Z.: A platform for testing the performance of metaheuristics solving the energy resource management problem in smart grids. In [Energy Informatics 2018](https://doi.org/10.1186/s42162-018-0046-y) (Suppl 1) :35
