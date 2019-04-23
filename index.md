@@ -5,6 +5,7 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 23 April 2019: Two papers accepted at GECCO2019
 
 * 14 March 2019: Program Committee for the [7th International Workshop on Multi-agent Based Applications for Smart Grids and Sustainable Energy Systems](https://www.paams.net/workshops/masges), collocated with the [17th International Conference on Practical Applications of Agents and Multi-Agent Systems](https://www.paams.net/)
 
