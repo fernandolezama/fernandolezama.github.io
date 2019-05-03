@@ -7,9 +7,12 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Journal Papers (12)
+## Refereed Journal Papers (14)
 
 ### 2019
+
+14\. Rodríguez González, A. Y., Palacios Alonso, M., Lezama, F., Rodríguez, L., Munoz de Cote, E., Morales, E., Sucar, E., Crockett, D. D.: **A Competitive and Profitable Multi-agent Autonomous Broker for Energy Markets**, [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2019). IF: 3.073. [(link)]()
+
 
 13\. Canizes, B., Soares, J., Costa, A., Pinto T., Lezama, F., Novais, P., Vale, Z.: **Electric Vehicles’ User Charging Behaviour Simulator for a Smart City**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/12/8/1470)
 
