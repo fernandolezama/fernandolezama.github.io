@@ -11,7 +11,9 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
-14\. Rodríguez González, A. Y., Palacios Alonso, M., Lezama, F., Rodríguez, L., Munoz de Cote, E., Morales, E., Sucar, E., Crockett, D. D.: **A Competitive and Profitable Multi-agent Autonomous Broker for Energy Markets**, [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2019). IF: 3.073. [(link)]()
+15\. Del-Valle-Soto, C., Mex-Perera, C., Aldaya, I., Lezama, F., Nolazco-Flores, J.A., Monroy, R.: **New Detection Paradigms to Improve Wireless Sensor Network Performance under Jamming Attacks**, [Sensors](https://www.mdpi.com/journal/sensors), MDPI (2019). IF: 2.475. [(link)](https://www.mdpi.com/1424-8220/19/11/2489) 
+
+14\. Rodríguez González, A. Y., Palacios Alonso, M., Lezama, F., Rodríguez, L., Munoz de Cote, E., Morales, E., Sucar, E., Crockett, D. D.: **A Competitive and Profitable Multi-agent Autonomous Broker for Energy Markets**, [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2019). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670718316664)
 
 
 13\. Canizes, B., Soares, J., Costa, A., Pinto T., Lezama, F., Novais, P., Vale, Z.: **Electric Vehicles’ User Charging Behaviour Simulator for a Smart City**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/12/8/1470)
@@ -58,10 +60,9 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
-23. Business Models for Flexibility of Electric Vehicles: Evolutionary Computation
-for a Successful Implementation
+23. Business Models for Flexibility of Electric Vehicles: Evolutionary Computation for a Successful Implementation
 
-22. Hybrid-Adaptive Differential Evolution with Decay Function(HyDE-DF) Applied to the 100-Digit Challenge Competition onSingle Objective Numerical Optimization
+22. Hybrid-Adaptive Differential Evolution with Decay Function(HyDE-DF) Applied to the 100-Digit Challenge Competition on Single Objective Numerical Optimization
 
 21. A Short Review on Data Mining Techniques for Electricity Customers Characterization
 
