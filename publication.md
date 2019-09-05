@@ -56,17 +56,18 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Conference Papers (19)
+## Refereed Conference Papers (24)
 
 ### 2019
+24.\ Lezama, F., de Cote, E. M., Farinelli, A., Soares, J., Pinto, T., and Vale, Z.: Distributed Constrained Optimization Towards Effective Agent-Based Microgrid Energy Resource Management. In EPIA Conference on Artificial Intelligence (pp. 438-449). Springer, September, 2019.
 
-23. Business Models for Flexibility of Electric Vehicles: Evolutionary Computation for a Successful Implementation
+23.\ Lezama, F., Soares, J., Faia, R., Vale, Z., Macedo, L. H., and Romero, R.: Business models for flexibility of electric vehicles: evolutionary computation for a successful implementation. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1873-1878). ACM, July, 2019.
 
-22. Hybrid-Adaptive Differential Evolution with Decay Function(HyDE-DF) Applied to the 100-Digit Challenge Competition on Single Objective Numerical Optimization
+22.\ Lezama, F., Soares, J., Faia, R., and Vale, Z.: Hybrid-adaptive differential evolution with decay function (HyDE-DF) applied to the 100-digit challenge competition on single objective numerical optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 7-8), ACM, July, 2019.
 
-21. A Short Review on Data Mining Techniques for Electricity Customers Characterization
+21.\ Cembranel, S. S., Lezama, F., Soares, J., Ramos, S., Gomes, A., and Vale, Z: A Short Review on Data Mining Techniques for Electricity Customers Characterization. In 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 194-199), March, 2019
 
-20. A Short Review on Smart Building Energy Resource Optimization
+20.\ Joench, R. L., Soares, J., Lezama, F., Ramos, S., Gomes, A., and Vale, Z.: A Short Review on Smart Building Energy Resource Optimization. In IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 440-445), March, 2019.
 
 ### 2018
 
