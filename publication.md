@@ -26,9 +26,9 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [(link)](https://www.sciencedirect.com/science/article/pii/S2210650218300592) [(pdf)](pdf/flc-SWEVO2018.pdf) [(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
 
-9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/6562876/) (<span style="color:#C31D1D;">open access</span>)
+9\. Soares, J., Lezama, F., Pinto, T., and Morais, H.: **Complex Optimization and Simulation in Power Systems**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 2.59. [(link)](https://www.hindawi.com/journals/complexity/2018/6562876/) (<span style="color:#C31D1D;">open access</span>)
 
-8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 1.83. [(link)](https://www.hindawi.com/journals/complexity/2018/2340628/) (<span style="color:#C31D1D;">open access</span>)
+8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 2.59. [(link)](https://www.hindawi.com/journals/complexity/2018/2340628/) (<span style="color:#C31D1D;">open access</span>)
 
 ### 2017
 
