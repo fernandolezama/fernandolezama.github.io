@@ -63,7 +63,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 23\. Lezama, F., Soares, J., Faia, R., Vale, Z., Macedo, L. H., and Romero, R.: Business models for flexibility of electric vehicles: evolutionary computation for a successful implementation. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1873-1878). ACM, July, 2019.
 
-22\. Lezama, F., Soares, J., Faia, R., and Vale, Z.: Hybrid-adaptive differential evolution with decay function (HyDE-DF) applied to the 100-digit challenge competition on single objective numerical optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 7-8), ACM, July, 2019.
+22\. Lezama, F., Soares, J., Faia, R., and Vale, Z.: Hybrid-adaptive differential evolution with decay function (HyDE-DF) applied to the 100-digit challenge competition on single objective numerical optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 7-8), ACM, July, 2019. [(Matlab Code)](Code/100-Digits-93Score-master.rar) [(Github-Repository)](https://github.com/fernandolezama/100-Digit-HyDEDF-93Digits)
 
 21\. Cembranel, S. S., Lezama, F., Soares, J., Ramos, S., Gomes, A., and Vale, Z: A Short Review on Data Mining Techniques for Electricity Customers Characterization. In 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 194-199), March, 2019
 
