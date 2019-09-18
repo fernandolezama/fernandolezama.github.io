@@ -9,6 +9,7 @@ title: Fernando Lezama's Homepage
 
 * 23 April 2019: Two papers accepted at GECCO2019
 
+{% comment %}
 * 14 March 2019: Program Committee for the [7th International Workshop on Multi-agent Based Applications for Smart Grids and Sustainable Energy Systems](https://www.paams.net/workshops/masges), collocated with the [17th International Conference on Practical Applications of Agents and Multi-Agent Systems](https://www.paams.net/)
 
 * 6 February 2019: Our paper has been accepted to [Renewable Energy](https://www.sciencedirect.com/science/article/pii/S0960148119301508):
@@ -20,19 +21,16 @@ title: Fernando Lezama's Homepage
 * 17 May 2018: Our paper has been accepted to [Swarm and Evolutionary Computation](https://www.sciencedirect.com/science/article/pii/S2210650218300592):
     * Fernando Lezama, Joao Soares, Zita Vale, Jose Rueda, Sergio, Rivera, Istvan, Elrich: 2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results. [(pdf)](pdf/flc-SWEVO2018.pdf)[(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
 
-* 07 March 2019: I made my homepage! 
-
-    {% comment %}
-
 * 10 January 2019: Our paper has been accepted to [IEEE Transactions on Cybernetics](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036):
     * Ryoji Tanabe and Alex Fukunaga: Reviewing and Benchmarking Parameter Control Methods in Differential Evolution. [(pdf)](pdf/tf-tcyb2018.pdf), [(supplemental-pdf)](pdf/tf-tcyb2018-supp.pdf), [(supplemental-website)](https://sites.google.com/view/pcmde/)
 
 {% endcomment %}
 
+* 07 March 2019: I made my homepage! 
 
 ## Fernando Lezama, Ph.D.
 
-* Position: Research Assistant
+* Position: Research Scientist
 * Affiliation: [GECAD - Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development](http://www.gecad.isep.ipp.pt), [Polytechnic of Porto, Portugal](https://www.ipp.pt) 
 * Address: Rua Dr. António Bernardino de Almeida, 431, 4200-072 Porto, Portugal
 * E-mail: ing.flezama [at] gmail.com
