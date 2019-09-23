@@ -5,6 +5,8 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 22 September 2019: our paper "Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House" has been accepted for presentation at the 2020 T&D, April 20-23 2020, Chicago, IL, USA.
+
 * 25 April 2019: Program Committee for Mexican Congress of Artificial Intelligence COMIA 2019
 
 * 23 April 2019: Two papers accepted at GECCO2019
