@@ -16,3 +16,6 @@ PAst tense for literature review [blog information](https://www.editage.com/insi
 ADMM Matlab scripts!!! [link](https://web.stanford.edu/~boyd/papers/admm/)
 
 Market clearing [different situations and scenarios that might occur when clearing](http://gridlab-d.shoutwiki.com/wiki/Spec:Market)
+
+
+Open data of power systems [link](https://data.open-power-system-data.org/time_series)
