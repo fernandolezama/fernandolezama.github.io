@@ -9,6 +9,11 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ## Refereed Journal Papers (16)
 
+### 2020
+
+17\. Lezama et al.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Submitted to [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670718316664). [(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)
+
+
 ### 2019
 
 16\. Omid Abrishambaf, Fernando Lezama, Pedro Faria, Zita Vale: **Towards transactive energy systems: An analysis on current trends**, [Energy Strategy Reviews](https://www.journals.elsevier.com/energy-strategy-reviews), Elsevier (2019). IF: 2.633. [(link)](https://www.sciencedirect.com/science/article/pii/S2211467X19301105)(<span style="color:#C31D1D;">open access</span>)
