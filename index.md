@@ -5,15 +5,17 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 13 January 2020: our paper "Flexibility management model of home appliances to support DSO requests in smart grids", has been accepted for publication in the journal [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), a joural from Elsevier. (to be released soon)  
+
 * 14 October 2019: our paper "Towards transactive energy systems: An analysis on current trends", in which I had the pleasure of collaboring with Omid Abrishambaf, Pedro Faria and Zita Vale, has been accepted in [Energy Strategy Reviews](https://www.sciencedirect.com/science/article/pii/S2211467X19301105), an (<span style="color:#C31D1D;">open access</span>) journal from elsevier. Check it now.
 
 * 22 September 2019: our paper "Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House" has been accepted for presentation at the 2020 T&D, April 20-23 2020, Chicago, IL, USA.
 
-* 25 April 2019: Program Committee for Mexican Congress of Artificial Intelligence COMIA 2019
-
 
 
 {% comment %}
+* 25 April 2019: Program Committee for Mexican Congress of Artificial Intelligence COMIA 2019
+
 * 23 April 2019: Two papers accepted at GECCO2019
 
 * 14 March 2019: Program Committee for the [7th International Workshop on Multi-agent Based Applications for Smart Grids and Sustainable Energy Systems](https://www.paams.net/workshops/masges), collocated with the [17th International Conference on Practical Applications of Agents and Multi-Agent Systems](https://www.paams.net/)
