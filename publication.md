@@ -7,11 +7,11 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Journal Papers (16)
+## Refereed Journal Papers (17)
 
 ### 2020
 
-17\. Lezama et al.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Submitted to [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670718316664). [(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)
+17\. Lezama et al.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Accepted in [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670718316664). [<span style="color:#C31D1D;">(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)
 
 
 ### 2019
