@@ -67,9 +67,14 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Conference Papers (24)
+## Refereed Conference Papers (26)
 
 ### 2019
+
+26\. Lezama, F., Soares, J., and Vale, Z.: Optimal Bidding in Local Energy Markets using Evolutionary Computation, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
+
+25\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Differential Evolution Optimization for a Residential Demand Response Application, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
+
 24\. Lezama, F., de Cote, E. M., Farinelli, A., Soares, J., Pinto, T., and Vale, Z.: Distributed Constrained Optimization Towards Effective Agent-Based Microgrid Energy Resource Management. In EPIA Conference on Artificial Intelligence (pp. 438-449). Springer, September, 2019.
 
 23\. Lezama, F., Soares, J., Faia, R., Vale, Z., Macedo, L. H., and Romero, R.: Business models for flexibility of electric vehicles: evolutionary computation for a successful implementation. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1873-1878). ACM, July, 2019.
