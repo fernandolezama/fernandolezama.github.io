@@ -5,7 +5,11 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-* 13 January 2020: our paper "Flexibility management model of home appliances to support DSO requests in smart grids", has been accepted for publication in the journal [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), a joural from Elsevier. (to be released soon)  
+24 May 2020: Program Committee of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems](http://www.gecad.isep.ipp.pt/AIPES/), collocated with the [24th European Conference on Artificial Intelligence (ECAI) 2020](http://ecai2020.eu/)
+
+20 May 2020: "Our paper Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms", has been publisehd in the journal [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. Check it now [(link)](https://www.mdpi.com/1996-1073/13/10/2466)
+
+* 13 January 2020: our paper "Flexibility management model of home appliances to support DSO requests in smart grids", has been accepted for publication in the journal [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), a joural from Elsevier. Check it now [link](https://www.sciencedirect.com/science/article/pii/S2210670720300354)  
 
 * 14 October 2019: our paper "Towards transactive energy systems: An analysis on current trends", in which I had the pleasure of collaboring with Omid Abrishambaf, Pedro Faria and Zita Vale, has been accepted in [Energy Strategy Reviews](https://www.sciencedirect.com/science/article/pii/S2211467X19301105), an (<span style="color:#C31D1D;">open access</span>) journal from elsevier. Check it now.
 
