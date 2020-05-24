@@ -67,7 +67,19 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Conference Papers (26)
+## Refereed Conference Papers (31)
+
+### 2020
+
+31\. Lezama, F., Pinto, T., Faia, R., and Vale, Z.: Exploiting flexibility of end-users at DSO-TSO levels acting in dynamic coalitions. In IEEE PES General Meeting. August 2020. (**accepted**)
+
+30\. Lezama, F., Faia, R., Soares, J., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using Ant Colony Optimization (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+
+29\. Soares, J., Lezama, F., Brisset, S., Francois, B., and Vale, Z.: Safety Isolating Transformer Design using HyDE-DF algorithm, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+
+28\. Canizes, B, Soares, J., Lezama, F., and Vale, Z.: Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+
+27\. Lezama, F., Faia, R., Faria, P., and Vale, Z.: Large-scale optimization of households with photovoltaic-battery system and demand response, In IFAC World Congress, July 2020. (**accepted**)
 
 ### 2019
 
