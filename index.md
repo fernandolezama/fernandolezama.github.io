@@ -5,6 +5,8 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 12 June 2020: Program Committee of [COMIA - Congreso Mexicano de Inteligencia Artificial](http://smia.mx/comia/2020/)
+
 * 24 May 2020: Program Committee of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems](http://www.gecad.isep.ipp.pt/AIPES/), collocated with the [24th European Conference on Artificial Intelligence (ECAI) 2020](http://ecai2020.eu/)
 
 * 20 May 2020: "Our paper Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms", has been publisehd in the journal [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. Check it now [(link)](https://www.mdpi.com/1996-1073/13/10/2466)
