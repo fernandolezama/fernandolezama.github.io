@@ -20,7 +20,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2019
 
-16\. Abrishambaf, O., Lezama, F., Faria, P., Vale, Z.: **Towards transactive energy systems: An analysis on current trends**, [Energy Strategy Reviews](https://www.journals.elsevier.com/energy-strategy-reviews), Elsevier (2019). IF: 2.633. [(link)](https://www.sciencedirect.com/science/article/pii/S2211467X19301105)(<span style="color:#C31D1D;">open access</span>)
+16\. Abrishambaf, O., Lezama, F., Faria, P., Vale, Z.: **Towards transactive energy systems: An analysis on current trends**, [Energy Strategy Reviews](https://www.journals.elsevier.com/energy-strategy-reviews), Elsevier (2019). IF: 3.89. [(link)](https://www.sciencedirect.com/science/article/pii/S2211467X19301105)(<span style="color:#C31D1D;">open access</span>)
 
 15\. Del-Valle-Soto, C., Mex-Perera, C., Aldaya, I., Lezama, F., Nolazco-Flores, J.A., Monroy, R.: **New Detection Paradigms to Improve Wireless Sensor Network Performance under Jamming Attacks**, [Sensors](https://www.mdpi.com/journal/sensors), MDPI (2019). IF: 2.475. [(link)](https://www.mdpi.com/1424-8220/19/11/2489) 
 
