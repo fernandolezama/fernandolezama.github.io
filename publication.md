@@ -67,9 +67,15 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Conference Papers (31)
+## Refereed Conference Papers (34)
 
 ### 2020
+
+34\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House. In IEEE PES T&D Conference & Exposition, October 2020. (**accepted**)
+
+33\. Faia, R., Pinto, T., Lezama, F., Vale, Z., Corchado, J.M., and González-Briones, A.: Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level. In The Workshop on Artificial Intelligence in Power and Energy Systems (AIPES) part of European Conference on Artificial Intelligence (ECAI), August-September 2020. (**accepted**)
+
+32\. Lezama, F., Soares, J., Faia, R., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using a Nature-Inspired Algorithm. In International Conference on the European Energy Market (EEM), Stockholm, Swedem, September 2020. (**accepted**)
 
 31\. Lezama, F., Pinto, T., Faia, R., and Vale, Z.: Exploiting flexibility of end-users at DSO-TSO levels acting in dynamic coalitions. In IEEE PES General Meeting. August 2020. (**accepted**)
 
