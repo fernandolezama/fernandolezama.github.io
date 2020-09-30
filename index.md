@@ -5,6 +5,9 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 18 September 2020: Our paper "" won "Best paper award: 3rd prize" at the [International Conference on the European Energy Market (EEM) 2020](https://eem20.eu/best-paper-award-winners/)
+
+
 * 12 June 2020: Program Committee of [COMIA - Congreso Mexicano de Inteligencia Artificial](http://smia.mx/comia/2020/)
 
 * 24 May 2020: Program Committee of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems](http://www.gecad.isep.ipp.pt/AIPES/), collocated with the [24th European Conference on Artificial Intelligence (ECAI) 2020](http://ecai2020.eu/)
@@ -17,11 +20,11 @@ title: Fernando Lezama's Homepage
 
 * 14 October 2019: our paper "Towards transactive energy systems: An analysis on current trends", in which I had the pleasure of collaboring with Omid Abrishambaf, Pedro Faria and Zita Vale, has been accepted in [Energy Strategy Reviews](https://www.sciencedirect.com/science/article/pii/S2211467X19301105), an (<span style="color:#C31D1D;">open access</span>) journal from elsevier. Check it now.
 
-* 22 September 2019: our paper "Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House" has been accepted for presentation at the 2020 T&D, April 20-23 2020, Chicago, IL, USA.
-
 
 
 {% comment %}
+* 22 September 2019: our paper "Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House" has been accepted for presentation at the 2020 T&D, April 20-23 2020, Chicago, IL, USA.
+
 * 25 April 2019: Program Committee for Mexican Congress of Artificial Intelligence COMIA 2019
 
 * 23 April 2019: Two papers accepted at GECCO2019
