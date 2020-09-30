@@ -5,7 +5,7 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-* 18 September 2020: Our paper "" won "Best paper award: 3rd prize" at the [International Conference on the European Energy Market (EEM) 2020](https://eem20.eu/best-paper-award-winners/)
+* 18 September 2020: Our paper "Learning Bidding Strategies in Local Electricity Markets Using a Nature-Inspired Algorithm" won "Best paper award: 3rd prize" at the [International Conference on the European Energy Market (EEM) 2020](https://eem20.eu/best-paper-award-winners/)
 
 
 * 12 June 2020: Program Committee of [COMIA - Congreso Mexicano de Inteligencia Artificial](http://smia.mx/comia/2020/)
