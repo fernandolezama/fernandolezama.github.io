@@ -19,3 +19,5 @@ Market clearing [different situations and scenarios that might occur when cleari
 
 
 Open data of power systems [link](https://data.open-power-system-data.org/time_series)
+
+https://github.com/fcampelo/EC-Bestiary Many Heuristic algorithms!!
