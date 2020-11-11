@@ -10,9 +10,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 ## Refereed Journal Papers (20)
 
 ### 2020
-20\. Fernando Lezama, Alberto F. Martínez-Herrera, Gerardo Castañón, Carolina Del-Valle-Soto, Ana Maria Sarmiento & Enrique Muñoz de Cote 
-
-Lezama, F., Martínez-Herrera, Alberto F., Castañón, G., Del-Valle-Soto, C., Sarmiento, A. M., and Munoz de Cote, E.: **Solving routing and spectrum allocation problems in flexgrid optical networks using pre-computing strategies**, [Photonic Network Communications](https://link.springer.com/journal/11107), (), pp. . Springer (2020). IF: 1.75. [(link)](https://doi.org/10.1007/s11107-020-00918-4) [(pdf)]()
+20\. Lezama, F., Martínez-Herrera, Alberto F., Castañón, G., Del-Valle-Soto, C., Sarmiento, A. M., and Munoz de Cote, E.: **Solving routing and spectrum allocation problems in flexgrid optical networks using pre-computing strategies**, [Photonic Network Communications](https://link.springer.com/journal/11107), (), pp. . Springer (2020). IF: 1.75. [(link)](https://doi.org/10.1007/s11107-020-00918-4) [(pdf)]()
 
 19\. Lezama, F., Faia, R., Faria, P., Vale, Z.: **Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/10/2466)
 
