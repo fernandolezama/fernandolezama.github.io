@@ -19,7 +19,6 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 17\. Lezama, F., Soares, J., Canizes, B., Vale, Z.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Accepted in [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670720300354). <span style="color:#C31D1D;">[(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)</span>
 
-
 ### 2019
 
 16\. Abrishambaf, O., Lezama, F., Faria, P., Vale, Z.: **Towards transactive energy systems: An analysis on current trends**, [Energy Strategy Reviews](https://www.journals.elsevier.com/energy-strategy-reviews), Elsevier (2019). IF: 3.89. [(link)](https://www.sciencedirect.com/science/article/pii/S2211467X19301105)(<span style="color:#C31D1D;">open access</span>)
@@ -81,13 +80,13 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 31\. Lezama, F., Pinto, T., Faia, R., and Vale, Z.: Exploiting flexibility of end-users at DSO-TSO levels acting in dynamic coalitions. In IEEE PES General Meeting. August 2020. (**accepted**)
 
-30\. Lezama, F., Faia, R., Soares, J., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using Ant Colony Optimization (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+30\. Lezama, F., Faia, R., Soares, J., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using Ant Colony Optimization (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-29\. Soares, J., Lezama, F., Brisset, S., Francois, B., and Vale, Z.: Safety Isolating Transformer Design using HyDE-DF algorithm, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+29\. Soares, J., Lezama, F., Brisset, S., Francois, B., and Vale, Z.: Safety Isolating Transformer Design using HyDE-DF algorithm, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-28\. Canizes, B, Soares, J., Lezama, F., and Vale, Z.: Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020. (**accepted**)
+28\. Canizes, B, Soares, J., Lezama, F., and Vale, Z.: Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-27\. Lezama, F., Faia, R., Faria, P., and Vale, Z.: Large-scale optimization of households with photovoltaic-battery system and demand response, In IFAC World Congress, July 2020. (**accepted**)
+27\. Lezama, F., Faia, R., Faria, P., and Vale, Z.: Large-scale optimization of households with photovoltaic-battery system and demand response, In IFAC World Congress, July 2020.
 
 ### 2019
 
