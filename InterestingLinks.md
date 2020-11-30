@@ -23,3 +23,6 @@ Open data of power systems [link](https://data.open-power-system-data.org/time_s
 https://github.com/fcampelo/EC-Bestiary Many Heuristic algorithms!!
 
 https://neos-guide.org/optimization-tree types of optimization and taxonomy
+
+Duality in optimization https://www.youtube.com/watch?v=hMjQK7fV8IE&ab_channel=SergiyButenko
+https://www.courses.psu.edu/for/for466w_mem14/Ch11/HTML/Sec4/ch11sec4_Dual.htm
