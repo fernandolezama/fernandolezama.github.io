@@ -11,7 +11,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ### 2021
 
-21\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . Springer (2020). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
+21\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . IEEE (2020). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
 
 ### 2020
 
