@@ -5,6 +5,10 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 14 January 2021: Our paper "Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions," in which I had the pleasure of collaboring with R. Faia, J. Soares, T. Pinto, Z. Vale and J. M. Corchado, has been published in [IEEE ACCESS](https://ieeexplore.ieee.org/document/9319858), an (<span style="color:#C31D1D;">open access</span>) journal from IEEE. Good way to start the year. Check it now.
+
+
+{% comment %}
 * 18 September 2020: Our paper "Learning Bidding Strategies in Local Electricity Markets Using a Nature-Inspired Algorithm" won "Best paper award: 3rd prize" at the [International Conference on the European Energy Market (EEM) 2020](https://eem20.eu/best-paper-award-winners/)
 
 
@@ -20,9 +24,6 @@ title: Fernando Lezama's Homepage
 
 * 14 October 2019: our paper "Towards transactive energy systems: An analysis on current trends", in which I had the pleasure of collaboring with Omid Abrishambaf, Pedro Faria and Zita Vale, has been accepted in [Energy Strategy Reviews](https://www.sciencedirect.com/science/article/pii/S2211467X19301105), an (<span style="color:#C31D1D;">open access</span>) journal from elsevier. Check it now.
 
-
-
-{% comment %}
 * 22 September 2019: our paper "Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House" has been accepted for presentation at the 2020 T&D, April 20-23 2020, Chicago, IL, USA.
 
 * 25 April 2019: Program Committee for Mexican Congress of Artificial Intelligence COMIA 2019
