@@ -7,7 +7,7 @@ Part of the [IEEE CIS Task Force on 'Computational Intelligence in the Energy Do
 
 ### Current competitions
 
-* [Evolutionary Computation in the Energy Domain: Smart Grid Applications](http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/). at [CEC 2021] (https://cec2021.mini.pw.edu.pl/en/program/competitions) and [GECCO2021](https://gecco-2021.sigevo.org/Competitions#id_Evolutionary%20Computation%20in%20the%20Energy%20Domain:%20Smart%20Grid%20Applications)
+* [Evolutionary Computation in the Energy Domain: Smart Grid Applications](http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/). at [CEC 2021](https://cec2021.mini.pw.edu.pl/en/program/competitions) and [GECCO2021](https://gecco-2021.sigevo.org/Competitions#id_Evolutionary%20Computation%20in%20the%20Energy%20Domain:%20Smart%20Grid%20Applications)
 
 
 ### Past competitions
