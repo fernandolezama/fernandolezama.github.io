@@ -19,9 +19,9 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 19\. Lezama, F., Faia, R., Faria, P., Vale, Z.: **Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/10/2466)
 
-18\. Foroozandeh, Z., Ramos, S., Soares, J., Lezama, F., Vale, Z., Gomes, A., Joench, R. L.: **A Mixed Binary Linear Programming Model for Optimal Energy Management of Smart Buildings**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/7/1719)
+18\. Foroozandeh, Z., Ramos, S., Soares, J., Lezama, F., Vale, Z., Gomes, A., Joench, R. L.: **A Mixed Binary Linear Programming Model for Optimal Energy Management of Smart Buildings**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/7/1719). <span style="color:#1dc31d;">[(Github-Repository)](https://github.com/fernandolezama/DR-of-Residential-Houses-Equipped-with-PV-BB-Systems-An-Application-Study-Using-EAs_Energies2020)</span>
 
-17\. Lezama, F., Soares, J., Canizes, B., Vale, Z.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Accepted in [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670720300354). <span style="color:#C31D1D;">[(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)</span>
+17\. Lezama, F., Soares, J., Canizes, B., Vale, Z.: **Flexibility management model of home appliances to support DSO requests in smart grids**, Accepted in [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 3.073. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670720300354). <span style="color:#1dc31d;">[(Github-Repository)](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)</span>
 
 ### 2019
 
