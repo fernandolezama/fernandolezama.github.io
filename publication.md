@@ -71,7 +71,11 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 ---
 
-## Refereed Conference Papers (34)
+## Refereed Conference Papers (35)
+
+### 2021
+
+35\. Faia, R., Pinto, T., Lezama, F., Vale, Z., & Corchado, J. M. (2021, February). Optimisation for Coalitions Formation Considering the Fairness in Flexibility Market Participation. In E3S Web of Conferences (Vol. 239, p. 00016). EDP Sciences. (International Conference on Renewable Energy - ICREN 2020)
 
 ### 2020
 
