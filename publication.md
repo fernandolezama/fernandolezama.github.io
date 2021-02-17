@@ -5,10 +5,10 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 57 peer-reviewed publications (48 in the past 5 years)
+Publication of 59 peer-reviewed publications (48 in the past 5 years)
 International Scientific Journals	22	(18 in the past 5 years)
 International Scientific Conferences	29	(24 in the past 5 years)
-Book Chapters & Articles in Books	2	(0
+Book Chapters & Articles in Books	8	(6 in the past 5 years
 
 ---
 
@@ -79,9 +79,6 @@ Book Chapters & Articles in Books	2	(0
 ---
 
 ## Refereed Conference Papers (29)
-
-### 2021
-
 
 ### 2020
 
