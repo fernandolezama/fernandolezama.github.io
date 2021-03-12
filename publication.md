@@ -19,7 +19,7 @@ Book Chapters & Articles in Books	8	(6 in the past 5 years)
 
 ### 2021
 
-18\. Rodríguez-González, A.Y., Martinez Lopez, Y., Madera, J., Bethencourt Mayedo, M., Lezama, F.: **Cellular Estimation of Distribution Algorithm Designed to Solve the Energy Resource Management Problem Under Uncertainty**, Accepted in [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), Elsevier (2021). IF: 4.201.
+23\. Rodríguez-González, A.Y., Martinez Lopez, Y., Madera, J., Bethencourt Mayedo, M., Lezama, F.: **Cellular Estimation of Distribution Algorithm Designed to Solve the Energy Resource Management Problem Under Uncertainty**, Accepted in [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), Elsevier (2021). IF: 4.201.
 
 22\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . IEEE (2020). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
 
