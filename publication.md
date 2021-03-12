@@ -21,7 +21,7 @@ Book Chapters & Articles in Books	8	(6 in the past 5 years)
 
 23\. Rodríguez-González, A.Y., Martinez Lopez, Y., Madera, J., Bethencourt Mayedo, M., Lezama, F.: **Cellular Estimation of Distribution Algorithm Designed to Solve the Energy Resource Management Problem Under Uncertainty**, Accepted in [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), Elsevier (2021). IF: 4.201.
 
-22\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . IEEE (2020). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
+22\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . (2021). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
 
 ### 2020
 
@@ -29,9 +29,9 @@ Book Chapters & Articles in Books	8	(6 in the past 5 years)
 
 20\. Lezama, F., Martínez-Herrera, Alberto F., Castañón, G., Del-Valle-Soto, C., Sarmiento, A. M., and Munoz de Cote, E.: **Solving routing and spectrum allocation problems in flexgrid optical networks using pre-computing strategies**, [Photonic Network Communications](https://link.springer.com/journal/11107), (), pp. . Springer (2020). IF: 1.75. [(link)](https://doi.org/10.1007/s11107-020-00918-4) [(pdf)]()
 
-19\. Lezama, F., Faia, R., Faria, P., Vale, Z.: **Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/10/2466). [<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/DR-of-Residential-Houses-Equipped-with-PV-BB-Systems-An-Application-Study-Using-EAs_Energies2020)
+19\. Lezama, F., Faia, R., Faria, P., Vale, Z.: **Demand Response of Residential Houses Equipped with PV-Battery Systems: An Application Study Using Evolutionary Algorithms**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2020). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/10/2466). [<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/DR-of-Residential-Houses-Equipped-with-PV-BB-Systems-An-Application-Study-Using-EAs_Energies2020)
 
-18\. Foroozandeh, Z., Ramos, S., Soares, J., Lezama, F., Vale, Z., Gomes, A., Joench, R. L.: **A Mixed Binary Linear Programming Model for Optimal Energy Management of Smart Buildings**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2019). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/7/1719).
+18\. Foroozandeh, Z., Ramos, S., Soares, J., Lezama, F., Vale, Z., Gomes, A., Joench, R. L.: **A Mixed Binary Linear Programming Model for Optimal Energy Management of Smart Buildings**, [Energies](https://www.mdpi.com/journal/energies), MDPI (2020). IF: 2.676. [(link)](https://www.mdpi.com/1996-1073/13/7/1719).
 
 
 ### 2019
