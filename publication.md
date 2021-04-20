@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 60 peer-reviewed publications (48 in the past 5 years)
+Publication of 62 peer-reviewed publications (50 in the past 5 years)
 
-International Scientific Journals	23	(19 in the past 5 years)
+International Scientific Journals	25	(21 in the past 5 years)
 
 International Scientific Conferences	29	(24 in the past 5 years)
 
@@ -18,6 +18,12 @@ Book Chapters & Articles in Books	8	(6 in the past 5 years)
 ## Refereed Journal Papers (23)
 
 ### 2021
+
+25\. Lezama, F., Soares, J., Faia, R., Vale, Z., Kilkki, O., Repo, S., Segerstam, J.: **Bidding in local electricity markets with cascading wholesale market integration**,
+[International Journal of Electrical Power & Energy Systems](https://www.sciencedirect.com/science/article/pii/S0142061521002842), 131,
+Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019) 
+
+24\. Faria, P., Lezama, F., Vale, Z., & Khorram, M.: **A methodology for energy key performance indicators analysis.** [Energy Informatics](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00140-0#citeas), 4(1), 1-15, Springer (2021).(<span style="color:#C31D1D;">open access</span>)
 
 23\. Rodríguez-González, A.Y., Martinez Lopez, Y., Madera, J., Bethencourt Mayedo, M., Lezama, F.: **Cellular Estimation of Distribution Algorithm Designed to Solve the Energy Resource Management Problem Under Uncertainty**, Accepted in [Engineering Applications of Artificial Intelligence](https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence), Elsevier (2021). IF: 4.201.
 
