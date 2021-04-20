@@ -21,7 +21,7 @@ Book Chapters & Articles in Books	8	(6 in the past 5 years)
 
 25\. Lezama, F., Soares, J., Faia, R., Vale, Z., Kilkki, O., Repo, S., Segerstam, J.: **Bidding in local electricity markets with cascading wholesale market integration**,
 [International Journal of Electrical Power & Energy Systems](https://www.sciencedirect.com/science/article/pii/S0142061521002842), 131,
-Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019) 
+Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/Bidding-in-Local-Electricity-Markets-with-Cascading-Wholesale-Market-Integration_IJEPES2020) 
 
 24\. Faria, P., Lezama, F., Vale, Z., & Khorram, M.: **A methodology for energy key performance indicators analysis.** [Energy Informatics](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00140-0#citeas), 4(1), 1-15, Springer (2021).(<span style="color:#C31D1D;">open access</span>)
 
