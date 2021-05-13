@@ -5,6 +5,9 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+program committee of
+* 13 May 2021: Program Committee member of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems], collocated with the [EPIA - Conference on Artificial Intelligence 2021](http://www.appia.pt/epia2021/)
+
 * 15 March 2021: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://smia.mx/comia/2021/)
 
 * 14 January 2021: Our paper "Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions," in which I had the pleasure of collaboring with R. Faia, J. Soares, T. Pinto, Z. Vale and J. M. Corchado, has been published in [IEEE ACCESS](https://ieeexplore.ieee.org/document/9319858), an (<span style="color:#C31D1D;">open access</span>) journal from IEEE. Good way to start the year. Check it now.
