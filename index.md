@@ -5,7 +5,8 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-program committee of
+* 14 June 2021: Program Committee member of [MASGES'21](https://www.paams.net/workshops/masges) (as part of the [PAAMS conference](https://www.paams.net/))
+
 * 13 May 2021: Program Committee member of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems], collocated with the [EPIA - Conference on Artificial Intelligence 2021](http://www.appia.pt/epia2021/)
 
 * 15 March 2021: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://smia.mx/comia/2021/)
