@@ -5,17 +5,17 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 62 peer-reviewed publications (50 in the past 5 years)
+Publication of 64 peer-reviewed publications (52 in the past 5 years)
 
 International Scientific Journals	25	(21 in the past 5 years)
 
 International Scientific Conferences	29	(24 in the past 5 years)
 
-Book Chapters & Articles in Books	8	(6 in the past 5 years)
+Book Chapters & Articles in Books	10	(8 in the past 5 years)
 
 ---
 
-## Refereed Journal Papers (23)
+## Refereed Journal Papers (25)
 
 ### 2021
 
@@ -168,9 +168,14 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Book Chapters and Articles in Books (8)
+## Book Chapters and Articles in Books (10)
 
 ### 2021
+
+Lezama, F., Pinto, T., Vale, Z., Santos, G., & Widergren, S. (2021). From the smart grid to the local electricity market. In Local Electricity Markets (pp. 63-76). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00023-X
+
+
+Faia, R., Lezama, F., & Corchado, J. M. (2021). Local electricity markets—practical implementations. In Local Electricity Markets (pp. 127-140). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00005-8
 
 8\. Faia, R., Pinto, T., Lezama, F., Vale, Z., & Corchado, J. M. (2021, February). Optimisation for Coalitions Formation Considering the Fairness in Flexibility Market Participation. In E3S Web of Conferences (Vol. 239, p. 00016). EDP Sciences. (International Conference on Renewable Energy - ICREN 2020)
 
