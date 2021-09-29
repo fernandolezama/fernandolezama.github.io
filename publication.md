@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 64 peer-reviewed publications (52 in the past 5 years)
+Publication of 65 peer-reviewed publications (53 in the past 5 years)
 
-International Scientific Journals	25	(21 in the past 5 years)
+International Scientific Journals	26	(22 in the past 5 years)
 
 International Scientific Conferences	29	(24 in the past 5 years)
 
@@ -15,9 +15,11 @@ Book Chapters & Articles in Books	10	(8 in the past 5 years)
 
 ---
 
-## Refereed Journal Papers (25)
+## Refereed Journal Papers (26)
 
 ### 2021
+
+26\. de Lima, T. D., Franco, J. F., Lezama, F., Soares, J., & Vale, Z. (2021). **Joint Optimal Allocation of Electric Vehicle Charging Stations and Renewable Energy Sources Including CO2 Emissions.** [Energy Informatics](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00157-5), 4(2), 1-18, Springer (2021).(<span style="color:#C31D1D;">open access</span>)
 
 25\. Lezama, F., Soares, J., Faia, R., Vale, Z., Kilkki, O., Repo, S., Segerstam, J.: **Bidding in local electricity markets with cascading wholesale market integration**,
 [International Journal of Electrical Power & Energy Systems](https://www.sciencedirect.com/science/article/pii/S0142061521002842), 131,
