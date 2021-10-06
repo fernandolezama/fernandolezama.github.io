@@ -5,11 +5,11 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 65 peer-reviewed publications (53 in the past 5 years)
+Publication of 68 peer-reviewed publications (57 in the past 5 years)
 
 International Scientific Journals	26	(22 in the past 5 years)
 
-International Scientific Conferences	29	(24 in the past 5 years)
+International Scientific Conferences	32	(27 in the past 5 years)
 
 Book Chapters & Articles in Books	10	(8 in the past 5 years)
 
@@ -92,7 +92,15 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (29)
+## Refereed Conference Papers (32)
+
+### 2021
+
+32\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2021, September). Optimal Strategy of Energy Storage Aggregators in Ancillary Service Markets: Stochastic Programming Approach. In IEEE International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). 2021.
+
+31\. Almeida, J., Soares, J., Canizes, B., Lezama, F., Fotouhi, M. A. G., & Vale, Z. (2021, June). Evolutionary Algorithms for Energy Scheduling under uncertainty considering Multiple Aggregators. In IEEE Congress on Evolutionary Computation (CEC) (pp. 225-232). 2021.
+
+30\. Lacerda, E., Lezama, F., Soares, J., & Vale, Z. (2021, June). DSO Contract Market for Demand Response Using Evolutionary Computation. In IEEE Congress on Evolutionary Computation (CEC) (pp. 233-240). 2021.
 
 ### 2020
 
@@ -174,10 +182,9 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ### 2021
 
-Lezama, F., Pinto, T., Vale, Z., Santos, G., & Widergren, S. (2021). From the smart grid to the local electricity market. In Local Electricity Markets (pp. 63-76). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00023-X
+10\. Lezama, F., Pinto, T., Vale, Z., Santos, G., & Widergren, S. (2021). From the smart grid to the local electricity market. In Local Electricity Markets (pp. 63-76). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00023-X
 
-
-Faia, R., Lezama, F., & Corchado, J. M. (2021). Local electricity markets—practical implementations. In Local Electricity Markets (pp. 127-140). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00005-8
+9\. Faia, R., Lezama, F., & Corchado, J. M. (2021). Local electricity markets—practical implementations. In Local Electricity Markets (pp. 127-140). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00005-8
 
 8\. Faia, R., Pinto, T., Lezama, F., Vale, Z., & Corchado, J. M. (2021, February). Optimisation for Coalitions Formation Considering the Fairness in Flexibility Market Participation. In E3S Web of Conferences (Vol. 239, p. 00016). EDP Sciences. (International Conference on Renewable Energy - ICREN 2020)
 
