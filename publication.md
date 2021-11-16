@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 68 peer-reviewed publications (57 in the past 5 years)
+Publication of 69 peer-reviewed publications (58 in the past 5 years)
 
-International Scientific Journals	26	(22 in the past 5 years)
+International Scientific Journals	27	(23 in the past 5 years)
 
 International Scientific Conferences	32	(27 in the past 5 years)
 
@@ -15,9 +15,10 @@ Book Chapters & Articles in Books	10	(8 in the past 5 years)
 
 ---
 
-## Refereed Journal Papers (26)
+## Refereed Journal Papers (27)
 
 ### 2021
+27\. Limmer, S., Lezama, F., Soares, J., & Vale, Z. (2021). **Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
 
 26\. de Lima, T. D., Franco, J. F., Lezama, F., Soares, J., & Vale, Z. (2021). **Joint Optimal Allocation of Electric Vehicle Charging Stations and Renewable Energy Sources Including CO2 Emissions.** [Energy Informatics](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00157-5), 4(2), 1-18, Springer (2021).(<span style="color:#C31D1D;">open access</span>)
 
