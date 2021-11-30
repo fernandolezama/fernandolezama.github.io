@@ -9,6 +9,8 @@ title: Fernando Lezama's Homepage
 
 * 20 October 2021: Our article in collaboration with Steffen Limmer from Honda Research Institute - "Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach" - has been accepted for publication in IEEE Access. Follow the link -> [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/9585590)
   
+* 13-16 October 2021 Organizer Special Session on [“Computational intelligence for power system networks and smart grid”](https://ieeeiecon.org/wp-content/uploads/sites/293/69.pdf) in the Annual Conference of the IEEE Industrial Electronics Society (IECON 2021)
+ 
 * 14 June 2021: Program Committee member of [MASGES'21](https://www.paams.net/workshops/masges) (as part of the [PAAMS conference](https://www.paams.net/))
 
 * 13 May 2021: Program Committee member of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems], collocated with the [EPIA - Conference on Artificial Intelligence 2021](http://www.appia.pt/epia2021/)
@@ -16,6 +18,8 @@ title: Fernando Lezama's Homepage
 * 15 March 2021: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://smia.mx/comia/2021/)
 
 * 14 January 2021: Our paper "Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions," in which I had the pleasure of collaboring with R. Faia, J. Soares, T. Pinto, Z. Vale and J. M. Corchado, has been published in [IEEE ACCESS](https://ieeexplore.ieee.org/document/9319858), an (<span style="color:#C31D1D;">open access</span>) journal from IEEE. Good way to start the year. Check it now.
+
+
 
 
 {% comment %}
