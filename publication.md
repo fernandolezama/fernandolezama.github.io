@@ -5,17 +5,23 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 69 peer-reviewed publications (58 in the past 5 years)
+Publication of 75 peer-reviewed publications
 
-International Scientific Journals	27	(23 in the past 5 years)
+International Scientific Journals	29	
 
-International Scientific Conferences	32	(27 in the past 5 years)
+International Scientific Conferences	36	
 
-Book Chapters & Articles in Books	10	(8 in the past 5 years)
+Book Chapters & Articles in Books	10	
 
 ---
 
 ## Refereed Journal Papers (27)
+
+### 2022
+29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
+
+28\. Almeida, J., Soares, J., Lezama, F., Vale, Z. (2022). **Robust Energy Resource Management incorporating Risk Analysis using Conditional Value-at-Risk.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
+
 
 ### 2021
 27\. Limmer, S., Lezama, F., Soares, J., & Vale, Z. (2021). **Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
@@ -93,9 +99,16 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (32)
+## Refereed Conference Papers (36)
 
 ### 2021
+36\. Lezama, F., Soares, J., Faia, R., Faria, P., & Vale, Z. (2021, September). Bidding in Local Energy Markets Considering Uncertainty from Renewables and Demand. In 2021 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
+
+35\. Soares, J., Lezama, F., Trindade, A., Ramos, S., Canizes, B., & Vale, Z. (2021, October). Electric Vehicles Trips and Charging Simulator Considering the User Behaviour in a Smart City. In 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) (pp. 1-6). IEEE.
+
+34\. Almeida, J., Soares, J., Lezama, F., Canizes, B., & Vale, Z. (2021, December). Evolutionary Algorithms applied to the Intraday Energy Resource Scheduling in the Context of Multiple Aggregators. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 01-08). IEEE.
+
+33\. Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2021, December). A Statistical Analysis of Performance in the 2021 CEC-GECCO-PESGM Competition on Evolutionary Computation in the Energy Domain. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
 32\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2021, September). Optimal Strategy of Energy Storage Aggregators in Ancillary Service Markets: Stochastic Programming Approach. In IEEE International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). 2021.
 
