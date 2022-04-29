@@ -15,7 +15,7 @@ Book Chapters & Articles in Books	10
 
 ---
 
-## Refereed Journal Papers (27)
+## Refereed Journal Papers (29)
 
 ### 2022
 29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
@@ -99,7 +99,17 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (36)
+## Refereed Conference Papers (40)
+### 2022
+
+40\. Vieira, M., Faia, R., Lezama, F., & Vale, Z. (2022, June). A Sensitivity Analysis of PSO Parameters Solving the P2P Electricity Market Problem. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
+
+39\. Lacerda, E., Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2022, June). Metaheuristic optimization solving demand response contract markets with network validation. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
+
+38\. Almeida, J., Lezama, F., Soares, J., Vale, Z., Canizes, B.: Preliminary Results of Advanced Heuristic Optimization in the Risk-based Energy Scheduling Competition. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. ). ACM, July, 2022.
+
+37\. Lezama, F., Soares, J., Foroozandeh, Z., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Community Storage Systems. In 2022 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
+
 
 ### 2021
 36\. Lezama, F., Soares, J., Faia, R., Faria, P., & Vale, Z. (2021, September). Bidding in Local Energy Markets Considering Uncertainty from Renewables and Demand. In 2021 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
