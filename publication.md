@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 75 peer-reviewed publications
+Publication of 76 peer-reviewed publications
 
-International Scientific Journals	29	
+International Scientific Journals	30	
 
 International Scientific Conferences	36	
 
@@ -18,6 +18,8 @@ Book Chapters & Articles in Books	10
 ## Refereed Journal Papers (29)
 
 ### 2022
+30\. Faia, R., Pinto, T. ., Lezama, F., Vale, Z., Corchado, J. M., & González-Briones, A. (2022). **Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level .** [ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal]([https://revistas.usal.es/index.php/2255-2863/article/view/27896]), Published.
+
 29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
 
 28\. Almeida, J., Soares, J., Lezama, F., Vale, Z. (2022). **Robust Energy Resource Management incorporating Risk Analysis using Conditional Value-at-Risk.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
