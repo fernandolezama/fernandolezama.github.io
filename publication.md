@@ -18,17 +18,17 @@ Book Chapters & Articles in Books	10
 ## Refereed Journal Papers (31)
 
 ### 2022
-31\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published.
+31\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published. IF: 6.725
 
 30\. Faia, R., Pinto, T. ., Lezama, F., Vale, Z., Corchado, J. M., & González-Briones, A. (2022). **Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level .** [ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal]([https://revistas.usal.es/index.php/2255-2863/article/view/27896]), Published.
 
-29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
+29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>) IF:  3.367
 
-28\. Almeida, J., Soares, J., Lezama, F., Vale, Z. (2022). **Robust Energy Resource Management incorporating Risk Analysis using Conditional Value-at-Risk.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
+28\. Almeida, J., Soares, J., Lezama, F., Vale, Z. (2022). **Robust Energy Resource Management incorporating Risk Analysis using Conditional Value-at-Risk.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>) IF: 3.367
 
 
 ### 2021
-27\. Limmer, S., Lezama, F., Soares, J., & Vale, Z. (2021). **Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
+27\. Limmer, S., Lezama, F., Soares, J., & Vale, Z. (2021). **Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>) IF: 3.367
 
 26\. de Lima, T. D., Franco, J. F., Lezama, F., Soares, J., & Vale, Z. (2021). **Joint Optimal Allocation of Electric Vehicle Charging Stations and Renewable Energy Sources Including CO2 Emissions.** [Energy Informatics](https://energyinformatics.springeropen.com/articles/10.1186/s42162-021-00157-5), 4(2), 1-18, Springer (2021).(<span style="color:#C31D1D;">open access</span>)
 
