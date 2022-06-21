@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 76 peer-reviewed publications
+Publication of 77 peer-reviewed publications
 
-International Scientific Journals	30	
+International Scientific Journals	31	
 
 International Scientific Conferences	36	
 
@@ -15,9 +15,11 @@ Book Chapters & Articles in Books	10
 
 ---
 
-## Refereed Journal Papers (29)
+## Refereed Journal Papers (31)
 
 ### 2022
+31\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published.
+
 30\. Faia, R., Pinto, T. ., Lezama, F., Vale, Z., Corchado, J. M., & González-Briones, A. (2022). **Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level .** [ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal]([https://revistas.usal.es/index.php/2255-2863/article/view/27896]), Published.
 
 29\. de Lima, TD., Franco, JF., Lezama, F., and Soares, J. (2022). **A Specialized Long-term Distribution System Expansion Planning Method with the Integration of Distributed Energy Resources.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/9585590), Published.(<span style="color:#C31D1D;">open access</span>)
