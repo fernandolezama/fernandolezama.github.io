@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 77 peer-reviewed publications
+Publication of 79 peer-reviewed publications
 
-International Scientific Journals	31	
+International Scientific Journals	33	
 
 International Scientific Conferences	36	
 
@@ -18,7 +18,11 @@ Book Chapters & Articles in Books	10
 ## Refereed Journal Papers (31)
 
 ### 2022
-31\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published. IF: 6.725
+33\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **Optimal strategy of electricity and natural gas aggregators in the energy and balance markets.** [Energy](https://www.sciencedirect.com/science/article/pii/S0360544222016565#sec2), 109162, Published. IF: 8.857
+
+32\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published. IF: 6.725
+
+31\. Dabhi, D., Pandya, K., Soares, J., Lezama, F., & Vale, Z. (2022). **Cross Entropy Covariance Matrix Adaptation Evolution Strategy for Solving the Bi-Level Bidding Optimization Problem in Local Energy Markets.** [Energies](https://www.mdpi.com/1996-1073/15/13/4838), 15(13), 4838. Published. IF: 3.252
 
 30\. Faia, R., Pinto, T. ., Lezama, F., Vale, Z., Corchado, J. M., & González-Briones, A. (2022). **Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level .** [ADCAIJ: Advances in Distributed Computing and Artificial Intelligence Journal]([https://revistas.usal.es/index.php/2255-2863/article/view/27896]), Published.
 
@@ -43,7 +47,6 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 22\. Faia, R., Soares, J., Pinto, T., Lezama, F., Vale, Z., and Corchado, J. M.: **Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions**, [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639), (9), pp. 12420 - 12430 . (2021). IF: 3.745. [(link)](https://ieeexplore.ieee.org/document/9319858) [(pdf)]()
 
 ### 2020
-
 21\. Lezama, F., Soares, J., Canizes, B., Vale, Z.: **Flexibility management model of home appliances to support DSO requests in smart grids**, [Sustainable Cities and Society](https://www.journals.elsevier.com/sustainable-cities-and-society), Elsevier (2020). IF: 5.268. [(link)](https://www.sciencedirect.com/science/article/pii/S2210670720300354). [<span style="color:#1dc31d;">(Github-Repository)</span>](https://github.com/fernandolezama/Flexibility-of-appliances-to-support-DSO-in-SG-SCS2019)
 
 20\. Lezama, F., Martínez-Herrera, Alberto F., Castañón, G., Del-Valle-Soto, C., Sarmiento, A. M., and Munoz de Cote, E.: **Solving routing and spectrum allocation problems in flexgrid optical networks using pre-computing strategies**, [Photonic Network Communications](https://link.springer.com/journal/11107), (), pp. . Springer (2020). IF: 1.75. [(link)](https://doi.org/10.1007/s11107-020-00918-4) [(pdf)]()
@@ -54,7 +57,6 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 
 ### 2019
-
 17\. Abrishambaf, O., Lezama, F., Faria, P., Vale, Z.: **Towards transactive energy systems: An analysis on current trends**, [Energy Strategy Reviews](https://www.journals.elsevier.com/energy-strategy-reviews), Elsevier (2019). IF: 3.89. [(link)](https://www.sciencedirect.com/science/article/pii/S2211467X19301105)(<span style="color:#C31D1D;">open access</span>)
 
 16\. Del-Valle-Soto, C., Mex-Perera, C., Aldaya, I., Lezama, F., Nolazco-Flores, J.A., Monroy, R.: **New Detection Paradigms to Improve Wireless Sensor Network Performance under Jamming Attacks**, [Sensors](https://www.mdpi.com/journal/sensors), MDPI (2019). IF: 2.475. [(link)](https://www.mdpi.com/1424-8220/19/11/2489) 
@@ -68,7 +70,6 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 12\. Canizes, B., Soares, J., Lezama, F., Silva, C., Vale, Z., and Corchado, J. M.: **Optimal expansion planning considering storage investment and seasonal effect of demand and renewable generation**, [Renewable Energy](https://www.journals.elsevier.com/renewable-energy), Elsevier (2019). IF: 4.90. [(link)](https://www.sciencedirect.com/science/article/pii/S0960148119301508) [(pdf)](pdf/bc-RENE2019.pdf)
 
 ### 2018
-
 11\. Lezama, F., Soares, J., Hernandez-Leal, P., Kaisers, M., Pinto, T., and Vale, Z.: **Local Energy Markets: Paving the Path Towards Fully Transactive Energy Systems**, [IEEE Transaction on Power Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=59), IEEE (2018). IF: 5.26. [(link)](https://ieeexplore.ieee.org/abstract/document/8411502) [(pdf)](pdf/flc-TPWRS2018.pdf) [(supplemental-website)](http://www.gecad.isep.ipp.pt/ies/public-data/ites) (<span style="color:#C31D1D;">open access</span>)
 
 10\. Lezama, F., Soares, J., Vale, Z., Rueda, J., Rivera, S., and Elrich, I.: **2017 IEEE competition on modern heuristic optimizers for smart grid operation: Testbeds and results**, [Swarm and Evolutionary Computation](https://www.journals.elsevier.com/swarm-and-evolutionary-computation), Elsevier (2018). IF: 3.81. [(link)](https://www.sciencedirect.com/science/article/pii/S2210650218300592) [(pdf)](pdf/flc-SWEVO2018.pdf) [(supplemental-website)](http://sites.ieee.org/psace-mho/2017-smart-grid-operation-problems-competition-panel/)
@@ -78,27 +79,22 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 8\. Soares, J., Pinto, T., Lezama, F., & Morais, H.: **Survey on Complex Optimization and Simulation for the New Power Systems Paradigm**, [Complexity](https://www.hindawi.com/journals/complexity/), Hindawi/Wiley (2018). IF: 2.59. [(link)](https://www.hindawi.com/journals/complexity/2018/2340628/) (<span style="color:#C31D1D;">open access</span>)
 
 ### 2017
-
 7\. Rodriguez-Gonzalez, A. Y., Lezama, F., Iglesias-Alvarez, C. A., Martínez-Trinidad, J. F., Carrasco-Ochoa, J. A., and Munoz de Cote, E.: **Closed Frequent Similar Pattern Mining: Reducing the Number of Frequent Similar Patterns without Information Loss**, [Expert Systems with Applications](https://www.journals.elsevier.com/expert-systems-with-applications), Elsevier (2017). IF: 3.76. [(link)](https://www.sciencedirect.com/science/article/pii/S0957417417308345) [(pdf)]()
 
 6\. Lezama, F., Palominos, J., Rodriguez-Gonzalez, A. Y., Farinelli, A., and Munoz de Cote, E.: **Agent-Based Microgrid Scheduling: An ICT Perspective**, [Mobile Networks and Applications](https://link.springer.com/journal/11036), Springer (2017). IF: 2.49. [(link)](https://link.springer.com/article/10.1007/s11036-017-0894-x) [(pdf)]()
 
 ### 2016
-
 5\. Lezama, F., Castañón, G., Sarmiento, A. M., and Martins, I. B.: **Differential evolution optimization applied to the Routing and spectrum allocation in flexgrid optical networks**, [Photonic Network Communications](https://link.springer.com/journal/11107), 31 (1), pp. 129-146. Springer (2016). IF: 1.21. [(link)](https://link.springer.com/article/10.1007/s11107-015-0558-3) [(pdf)]()
 
 ### 2014
-
 4\. Lezama, F., Castañón, G., Sarmiento, A. M., Callegati, F., Cerroni, W.: **Survivable virtual topology mapping in IP-over-WDM networks using differential evolution optimization**, [Photonic Network Communications](https://link.springer.com/journal/11107), 28(3), pp. 306-319. Springer (2014). IF: 0.79. [(link)](https://link.springer.com/article/10.1007/s11107-014-0455-1) [(pdf)]()
 
 3\. Callegati, F., Bonani, L., Lezama, F., Cerroni, W., Campi, A., Castanón, G.: **Trunk Reservation for Fair Utilization in Flexible Optical Networks**, [IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234). 18(5), pp. 889-892, IEEE (2014). IF: 1.27. [(link)](https://ieeexplore.ieee.org/abstract/document/6787150) [(pdf)]()
 
 ### 2013
-
 2\. Lezama, F., Castañón, G., Sarmiento, A. M.: **Routing and wavelength assignment in all optical networks using differential evolution optimization**, [Photonic Network Communications](https://link.springer.com/journal/11107). 26(2-3), pp. 103-119, Springer (2013). IF: 0.75. [(link)](https://link.springer.com/article/10.1007/s11107-013-0413-3) [pdf]()
 
 ### 2012
-
 1\. Lezama, F., Castañón, G., Sarmiento, A. M.: **Differential evolution optimization applied to the wavelength converters placement problem in all optical networks**, [Computer Networks](https://www.journals.elsevier.com/computer-networks), 56(9), pp. 2262-2275, Elsevier (2012). IF: 1.23. [(link)](https://www.sciencedirect.com/science/article/pii/S1389128612001181) [(pdf)]()
 
 ---
