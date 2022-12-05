@@ -5,8 +5,17 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 26th September 2022: Expert Talk - [in Short Term Training Program on “Sustainable Development and Recent Advances in Electrical
+Engineering”](https://sites.google.com/view/icstace/keynote-speakers?authuser=0) - "Metaheuristics Solving Applications in the Energy Domain: When and Where?" 
+
+* 29 July 2022: Talk in [Workshop Otimização de Modernos Sistemas de Energia: Pesquisas no LaPSEE e GECAD](https://www2.unesp.br/portal#!/acontece/detalhes/v/id::644/titulo::workshop-otimizacao-de-modernos-sistemas-de-energia-pesquisas-no-lapsee-e-gecad) - "Selected Applications of Metaheuristic Optimization in Energy"
+
+* 23 May 2022: Program Committee member of [MASGES'22](https://www.paams.net/workshops/masges) (as part of the [PAAMS conference](https://www.paams.net/))
+
 * 29 April 2022: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://www.smia.mx/comia/2022/)
 
+
+{% comment %}
 * 12 November 2021: Keynote speaker - [ICSTACE - International Conference on Sustainable Technology and Advanced Computing in Electrical Engineering](https://sites.google.com/view/icstace/keynote-speakers?authuser=0) - "Computational intelligence applications in smart grid optimization" 
 
 * 20 October 2021: Our article in collaboration with Steffen Limmer from Honda Research Institute - "Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach" - has been accepted for publication in IEEE Access. Follow the link -> [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/9585590)
@@ -17,10 +26,6 @@ title: Fernando Lezama's Homepage
 
 * 13 May 2021: Program Committee member of [AIPES Workshop on Artificial Intelligence in Power and Energy Systems], collocated with the [EPIA - Conference on Artificial Intelligence 2021](http://www.appia.pt/epia2021/)
 
-
-
-
-{% comment %}
 * 15 March 2021: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://smia.mx/comia/2021/)
 
 * 14 January 2021: Our paper "Optimal Model for Local Energy Community Scheduling Considering Peer to Peer Electricity Transactions," in which I had the pleasure of collaboring with R. Faia, J. Soares, T. Pinto, Z. Vale and J. M. Corchado, has been published in [IEEE ACCESS](https://ieeexplore.ieee.org/document/9319858), an (<span style="color:#C31D1D;">open access</span>) journal from IEEE. Good way to start the year. Check it now.
