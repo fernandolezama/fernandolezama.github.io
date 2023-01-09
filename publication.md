@@ -15,7 +15,7 @@ Book Chapters & Articles in Books	10
 
 ---
 
-## Refereed Journal Papers (31)
+## Refereed Journal Papers (34)
 
 ### 2022
 34\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **A hierarchy model to use local resources by DSO and TSO in the balancing market.** [Energy](https://doi.org/10.1016/j.energy.2022.126461), 126461, Published. IF: 8.857
@@ -101,8 +101,16 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (40)
+## Refereed Conference Papers (44)
 ### 2022
+
+44\. Lezama, F., Faia, R., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Low Voltage Grid Constraints. In 2022 18th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+
+43\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022, October). Optimal Strategy of Energy Aggregators in the Energy and Regulation markets: Chance-Constrained Approach. In 2022 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe) (pp. 1-5). IEEE.
+
+42\. de Lima, T. D., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2022, June). Eco-friendly Planning of DG units and EV Charging Stations in Electrical Distribution Systems: A Multi-Objective Mixed Integer Linear Programming Model. In 2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) (pp. 1-6). IEEE.
+
+41\. Bairrão, D. R., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2022). Retail Electricity Tariffs for Electric Vehicles in Europe: A Multivariate Analysis in 4 European Countries. IFAC-PapersOnLine, 55(9), 303-308.
 
 40\. Vieira, M., Faia, R., Lezama, F., & Vale, Z. (2022, June). A Sensitivity Analysis of PSO Parameters Solving the P2P Electricity Market Problem. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
 
