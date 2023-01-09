@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 79 peer-reviewed publications
+Publication of 80 peer-reviewed publications
 
-International Scientific Journals	33	
+International Scientific Journals	34	
 
 International Scientific Conferences	36	
 
@@ -18,6 +18,8 @@ Book Chapters & Articles in Books	10
 ## Refereed Journal Papers (31)
 
 ### 2022
+34\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **A hierarchy model to use local resources by DSO and TSO in the balancing market.** [Energy](https://doi.org/10.1016/j.energy.2022.126461), 126461, Published. IF: 8.857
+
 33\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **Optimal strategy of electricity and natural gas aggregators in the energy and balance markets.** [Energy](https://www.sciencedirect.com/science/article/pii/S0360544222016565#sec2), 109162, Published. IF: 8.857
 
 32\. Rodríguez-González, A. Y., Lezama, F., Martínez-López, Y., Madera, J., Soares, J., & Vale, Z. (2022). **WCCI/GECCO 2020 Competition on Evolutionary Computation in the Energy Domain: An overview from the winner perspective.** [Applied Soft Computing](https://www.sciencedirect.com/science/article/pii/S1568494622004148), 109162, Published. IF: 6.725
