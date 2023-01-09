@@ -212,7 +212,13 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Book Chapters and Articles in Books (10)
+## Book Chapters and Articles in Books (11)
+
+### 2022
+
+12\. Lezama, F. (2022). Data Mining and Analysis in Power and Energy Systems: An Introduction to Algorithms and Applications. Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems, 25-44. WILEY. https://doi.org/10.1002/9781119834052.ch2
+
+11\.Mahajan, V., Chowdhury, A., Padhy, N. P., & Lezama, F. (Eds.). (2022). Sustainable Technology and Advanced Computing in Electrical Engineering: Proceedings of ICSTACE 2021 (Vol. 939). Springer Nature. https://link.springer.com/book/10.1007/978-981-19-4364-5
 
 ### 2021
 
