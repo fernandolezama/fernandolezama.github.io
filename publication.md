@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 80 peer-reviewed publications
+Publication of 81 peer-reviewed publications
 
-International Scientific Journals	34	
+International Scientific Journals	35	
 
 International Scientific Conferences	36	
 
@@ -16,6 +16,8 @@ Book Chapters & Articles in Books	10
 ---
 
 ## Refereed Journal Papers (34)
+### 2023
+35\. Faia, R., Lezama, F., Pinto, T., Faria, P., Vale, Z., Terras, J. M., & Albuquerque, S. (2023). A Simulation of Market-Based Non-Frequency Local Ancillary Service Procurement Based on Demand Flexibility. [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/abstract/document/10014586). Published. IF: 4.469
 
 ### 2022
 34\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **A hierarchy model to use local resources by DSO and TSO in the balancing market.** [Energy](https://doi.org/10.1016/j.energy.2022.126461), 126461, Published. IF: 8.857
