@@ -5,18 +5,20 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 81 peer-reviewed publications
+Publication of 90 peer-reviewed publications
 
-International Scientific Journals	35	
+International Scientific Journals	36	
 
-International Scientific Conferences	36	
+International Scientific Conferences	44	
 
 Book Chapters & Articles in Books	10	
 
 ---
 
-## Refereed Journal Papers (34)
+## Refereed Journal Papers (36)
 ### 2023
+36\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). A Robust Model for Portfolio Management of Microgrid Operator in the Balancing Market. Energies, 16(4), 1700.
+
 35\. Faia, R., Lezama, F., Pinto, T., Faria, P., Vale, Z., Terras, J. M., & Albuquerque, S. (2023). A Simulation of Market-Based Non-Frequency Local Ancillary Service Procurement Based on Demand Flexibility. [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/abstract/document/10014586). Published. IF: 4.469
 
 ### 2022
