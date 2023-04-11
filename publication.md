@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 90 peer-reviewed publications
+Publication of 91 peer-reviewed publications
 
-International Scientific Journals	36	
+International Scientific Journals	37	
 
 International Scientific Conferences	44	
 
@@ -15,11 +15,13 @@ Book Chapters & Articles in Books	10
 
 ---
 
-## Refereed Journal Papers (36)
+## Refereed Journal Papers (37)
 ### 2023
-36\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). A Robust Model for Portfolio Management of Microgrid Operator in the Balancing Market. Energies, 16(4), 1700.
+37\. de Lima, TD., Soares, J., Lezama, F., Franco, JF., and Vale, Z. (2022). **A Risk-Based Planning Approach for Sustainable Distribution Systems Considering EV Charging Stations and Carbon Taxes.** [IEEE Transactions on Sustainable Energy](https://ieeexplore.ieee.org/abstract/document/10081007), Published.(<span style="color:#C31D1D;">open access</span>) IF: 8.31
 
-35\. Faia, R., Lezama, F., Pinto, T., Faria, P., Vale, Z., Terras, J. M., & Albuquerque, S. (2023). A Simulation of Market-Based Non-Frequency Local Ancillary Service Procurement Based on Demand Flexibility. [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/abstract/document/10014586). Published. IF: 4.469
+36\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). **A Robust Model for Portfolio Management of Microgrid Operator in the Balancing Market.** [Energies](https://www.mdpi.com/1996-1073/16/4/1700), 16(4), 1700. IF: 3.25
+
+35\. Faia, R., Lezama, F., Pinto, T., Faria, P., Vale, Z., Terras, J. M., & Albuquerque, S. (2023). **A Simulation of Market-Based Non-Frequency Local Ancillary Service Procurement Based on Demand Flexibility.** [Journal of Modern Power Systems and Clean Energy](https://ieeexplore.ieee.org/abstract/document/10014586). Published. IF: 4.469
 
 ### 2022
 34\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022). **A hierarchy model to use local resources by DSO and TSO in the balancing market.** [Energy](https://doi.org/10.1016/j.energy.2022.126461), 126461, Published. IF: 8.857
