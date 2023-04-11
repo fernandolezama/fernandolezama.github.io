@@ -7,10 +7,14 @@ Part of the [IEEE CIS Task Force on 'Computational Intelligence in the Energy Do
 
 ### Current competitions
 
-* [Evolutionary Computation in the Energy Domain: Smart Grid Applications](http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/). at [CEC 2021](https://cec2021.mini.pw.edu.pl/en/program/competitions) and [GECCO2021](https://gecco-2021.sigevo.org/Competitions#id_Evolutionary%20Computation%20in%20the%20Energy%20Domain:%20Smart%20Grid%20Applications)
+* [Evolutionary Computation in the Energy Domain: Operation and Planning Applications]([http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/](http://www.gecad.isep.ipp.pt/ERM-competitions/2023-2/)). at [CEC 2023](https://2023.ieee-cec.org/competitions/) and [GECCO2023](https://gecco-2023.sigevo.org/Competitions#id_Evolutionary%20Computation%20in%20the%20Energy%20Domain:%20Operation%20and%20Planning%20Applications.)
 
 
 ### Past competitions
+* [Evolutionary Computation in the Energy Domain: Smart Grid Applications 2022](http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/). at [WCCI 2022] and [GECCO2022]
+
+
+* [Evolutionary Computation in the Energy Domain: Smart Grid Applications](http://www.gecad.isep.ipp.pt/ERM-competitions/2021-2/). at [CEC 2021](https://cec2021.mini.pw.edu.pl/en/program/competitions) and [GECCO2021](https://gecco-2021.sigevo.org/Competitions#id_Evolutionary%20Computation%20in%20the%20Energy%20Domain:%20Smart%20Grid%20Applications)
 
 * [Evolutionary Computation in the Energy Domain: Smart Grid Applications](http://www.gecad.isep.ipp.pt/ERM-competitions/2020-2/). at [WCCI-CEC 2020] (https://wcci2020.org/competitions/) and [GECCO2019](https://gecco-2020.sigevo.org/index.html/Competitions)
 
