@@ -5,13 +5,13 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 91 peer-reviewed publications
+Publication of 94 peer-reviewed publications
 
 International Scientific Journals	37	
 
-International Scientific Conferences	44	
+International Scientific Conferences	45	
 
-Book Chapters & Articles in Books	10	
+Book Chapters & Articles in Books	12	
 
 ---
 
@@ -219,7 +219,7 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Book Chapters and Articles in Books (11)
+## Book Chapters and Articles in Books (12)
 
 ### 2022
 
