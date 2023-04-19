@@ -107,8 +107,9 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (44)
+## Refereed Conference Papers (45)
 ### 2022
+45\. Foroozandeh, Z., Limmer, S., Lezama, F., Faia, R., Ramos, S., & Soares, J. (2022, October). A MBNLP Method for Centralized Energy Pricing and Scheduling in Local Energy Community. In 2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition–Latin America (IEEE PES GTD Latin America) (pp. 1-6). IEEE.
 
 44\. Lezama, F., Faia, R., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Low Voltage Grid Constraints. In 2022 18th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
