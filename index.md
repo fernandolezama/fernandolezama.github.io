@@ -5,6 +5,8 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 05 May 2023:  Part of the [Program Committee](https://ecta.scitevents.org/ProgramCommittee.aspx) “15th International Conference on Evolutionary Computation Theory and Applications” - ECTA 2023 (https://ecta.scitevents.org)
+
 * 25 March 2023: Check our latest publication. The article [“A Risk-based Planning Approach for Sustainable Distribution Systems considering EV Charging Stations and Carbon Taxes”](https://ieeexplore.ieee.org/abstract/document/10081007) by Tayenne Lima, Joao Soares, Fernando Lezama, John F. Franco, and Zita Vale is available in IEEE Transactions on Sustainable Energy (IF 8.31, Q1). The early version was published last 25 March 2023. 
 
 * 26th September 2022: Expert Talk - [in Short Term Training Program on “Sustainable Development and Recent Advances in Electrical
