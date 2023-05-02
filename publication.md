@@ -7,7 +7,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 Publication of 94 peer-reviewed publications
 
-International Scientific Journals	37	
+International Scientific Journals	38	
 
 International Scientific Conferences	45	
 
@@ -15,8 +15,10 @@ Book Chapters & Articles in Books	12
 
 ---
 
-## Refereed Journal Papers (37)
+## Refereed Journal Papers (38)
 ### 2023
+38\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). **A novel adaptive robust model for scheduling distributed energy resources in local electricity and flexibility markets.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261923005081), IF: 11.446
+
 37\. de Lima, TD., Soares, J., Lezama, F., Franco, JF., and Vale, Z. (2022). **A Risk-Based Planning Approach for Sustainable Distribution Systems Considering EV Charging Stations and Carbon Taxes.** [IEEE Transactions on Sustainable Energy](https://ieeexplore.ieee.org/abstract/document/10081007), Published.(<span style="color:#C31D1D;">open access</span>) IF: 8.31
 
 36\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). **A Robust Model for Portfolio Management of Microgrid Operator in the Balancing Market.** [Energies](https://www.mdpi.com/1996-1073/16/4/1700), 16(4), 1700. IF: 3.25
