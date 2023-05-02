@@ -5,7 +5,7 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-* 05 May 2023:  Part of the [Program Committee](https://ecta.scitevents.org/ProgramCommittee.aspx) “15th International Conference on Evolutionary Computation Theory and Applications” - ECTA 2023 (https://ecta.scitevents.org)
+* 05 May 2023:  Part of the [Program Committee](https://ecta.scitevents.org/ProgramCommittee.aspx) “15th International Conference on Evolutionary Computation Theory and Applications” - [ECTA 2023](https://ecta.scitevents.org).
 
 * 25 March 2023: Check our latest publication. The article [“A Risk-based Planning Approach for Sustainable Distribution Systems considering EV Charging Stations and Carbon Taxes”](https://ieeexplore.ieee.org/abstract/document/10081007) by Tayenne Lima, Joao Soares, Fernando Lezama, John F. Franco, and Zita Vale is available in IEEE Transactions on Sustainable Energy (IF 8.31, Q1). The early version was published last 25 March 2023. 
 
@@ -16,10 +16,9 @@ Engineering”](https://sites.google.com/view/icstace/keynote-speakers?authuser=
 
 * 23 May 2022: Program Committee member of [MASGES'22](https://www.paams.net/workshops/masges) (as part of the [PAAMS conference](https://www.paams.net/))
 
-* 29 April 2022: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://www.smia.mx/comia/2022/)
-
-
 {% comment %}
+* 29 April 2022: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://www.smia.mx/comia/2022/)
+* 
 * 12 November 2021: Keynote speaker - [ICSTACE - International Conference on Sustainable Technology and Advanced Computing in Electrical Engineering](https://sites.google.com/view/icstace/keynote-speakers?authuser=0) - "Computational intelligence applications in smart grid optimization" 
 
 * 20 October 2021: Our article in collaboration with Steffen Limmer from Honda Research Institute - "Coordination of Home Appliances for Demand Response: An Improved Optimization Model and Approach" - has been accepted for publication in IEEE Access. Follow the link -> [IEEE ACCESS](https://ieeexplore.ieee.org/abstract/document/9585590)
