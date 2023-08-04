@@ -5,18 +5,20 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 94 peer-reviewed publications
+Publication of 99 peer-reviewed publications
 
-International Scientific Journals	38	
+International Scientific Journals	39	
 
-International Scientific Conferences	45	
+International Scientific Conferences	49	
 
 Book Chapters & Articles in Books	12	
 
 ---
 
-## Refereed Journal Papers (38)
+## Refereed Journal Papers (39)
 ### 2023
+39\. Almeida, J., Soares, J., Lezama, F., Vale, Z., & Francois, B. (2023). **Comparison of evolutionary algorithms for solving risk-based energy resource management considering conditional value-at-risk analysis.** [Mathematics and Computers in Simulation](https://www.sciencedirect.com/science/article/pii/S0378475423002902), IF: 4.6
+
 38\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2023). **A novel adaptive robust model for scheduling distributed energy resources in local electricity and flexibility markets.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261923005081), IF: 11.446
 
 37\. de Lima, TD., Soares, J., Lezama, F., Franco, JF., and Vale, Z. (2022). **A Risk-Based Planning Approach for Sustainable Distribution Systems Considering EV Charging Stations and Carbon Taxes.** [IEEE Transactions on Sustainable Energy](https://ieeexplore.ieee.org/abstract/document/10081007), Published.(<span style="color:#C31D1D;">open access</span>) IF: 8.31
@@ -109,7 +111,16 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (45)
+## Refereed Conference Papers (49)
+### 2023
+49\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+
+48\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
+
+47\. Almeida, J., Lezama, F., Soares, J., Macedo, L., Vale, Z., & Romero, R. (2023, July). Metaheuristic Optimization for Transmission Network Expansion Planning: Testebed 2 of the Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1668-1675).
+
+46\. Cordero, L., Jaramillo-Leon, B., Leite, J., Franco, J., Almeida, J., Lezama, F., & Soares, J. (2023, July). Probabilistic-based Optimization for PV Hosting Capacity with Confidence Interval Restrictions. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1933-1940).
+
 ### 2022
 45\. Foroozandeh, Z., Limmer, S., Lezama, F., Faia, R., Ramos, S., & Soares, J. (2022, October). A MBNLP Method for Centralized Energy Pricing and Scheduling in Local Energy Community. In 2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition–Latin America (IEEE PES GTD Latin America) (pp. 1-6). IEEE.
 
