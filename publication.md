@@ -5,7 +5,7 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 99 peer-reviewed publications
+Publication of 100 peer-reviewed publications
 
 International Scientific Journals	39	
 
