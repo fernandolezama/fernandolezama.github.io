@@ -5,6 +5,12 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 01 January 2024: Check our latest publication. The article [“Local electricity markets: A review on benefits, barriers, current trends and future perspectives”](https://www.sciencedirect.com/science/article/pii/S136403212300864X) by Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. is available in Elsevier Renewable and Sustainable Energy Reviews (IF 15.9, Q1).
+  
+* December 2023: I received the IEEE Senior member recognition.
+
+
+{% comment %}
 * 05 May 2023: Check our latest publication. The article [“A novel adaptive robust model for scheduling distributed energy resources in local electricity and flexibility markets”](https://www.sciencedirect.com/science/article/pii/S0306261923005081) by Meysam Khojasteh, Pedro Faria, Fernando Lezama, and Zita Vale is available in Elsevier Applied Energy (IF 11.446, Q1). 
 
 * 05 May 2023:  Part of the [Program Committee](https://ecta.scitevents.org/ProgramCommittee.aspx) “15th International Conference on Evolutionary Computation Theory and Applications” - [ECTA 2023](https://ecta.scitevents.org).
@@ -18,7 +24,6 @@ Engineering”](https://sites.google.com/view/icstace/keynote-speakers?authuser=
 
 * 23 May 2022: Program Committee member of [MASGES'22](https://www.paams.net/workshops/masges) (as part of the [PAAMS conference](https://www.paams.net/))
 
-{% comment %}
 * 29 April 2022: Program Committee member of [COMIA - Congreso Mexicano de Inteligencia Artificial 2021](http://www.smia.mx/comia/2022/)
 * 
 * 12 November 2021: Keynote speaker - [ICSTACE - International Conference on Sustainable Technology and Advanced Computing in Electrical Engineering](https://sites.google.com/view/icstace/keynote-speakers?authuser=0) - "Computational intelligence applications in smart grid optimization" 
