@@ -7,7 +7,9 @@ title: Fernando Lezama's Homepage
 ## NEWS
 * 01 January 2024: Check our latest publication. The article [“Local electricity markets: A review on benefits, barriers, current trends and future perspectives”](https://www.sciencedirect.com/science/article/pii/S136403212300864X) by Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. is available in Elsevier Renewable and Sustainable Energy Reviews (IF 15.9, Q1).
   
-* December 2023: I received the IEEE Senior member recognition.
+* 04 January 2024: Part of the Program Committee “16th International Conference on Evolutionary Computation Theory and Applications” - ECTA 2024.
+  
+* December 2023: I received the IEEE Senior Member recognition.
 
 
 {% comment %}
