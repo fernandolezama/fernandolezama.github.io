@@ -5,6 +5,8 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+February 2024: Associate Editor Journal	Artificial Intelligence Review, Springer (IF 12.00)
+
 * 07 February 2024: Part of the Program Committee “The IEEE World Congress on Computational Intelligence - Congress on Evolutionary Computation (CEC) IEEE WCCI 2024
 
 * 07 February 2024: Part of the Program Committee “IEEE MELECON 2024 (https://2024.ieee-melecon.org/) is one of the flagship conferences of IEEE Region 8 and will be held in Portugal, Porto on 25-27 June of 2024
