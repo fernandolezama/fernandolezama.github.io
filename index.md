@@ -5,6 +5,12 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
+* 07 February 2024: Part of the Program Committee “The IEEE World Congress on Computational Intelligence - Congress on Evolutionary Computation (CEC) IEEE WCCI 2024
+
+* 07 February 2024: Part of the Program Committee “IEEE MELECON 2024 (https://2024.ieee-melecon.org/) is one of the flagship conferences of IEEE Region 8 and will be held in Portugal, Porto on 25-27 June of 2024
+
+* 06 February 2024: Part of the Program Committee of the 4th Energy Informatics Academy Conference (EI.A 2024)
+
 * 01 January 2024: Check our latest publication. The article [“Local electricity markets: A review on benefits, barriers, current trends and future perspectives”](https://www.sciencedirect.com/science/article/pii/S136403212300864X) by Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. is available in Elsevier Renewable and Sustainable Energy Reviews (IF 15.9, Q1).
   
 * 04 January 2024: Part of the Program Committee “16th International Conference on Evolutionary Computation Theory and Applications” - ECTA 2024.
