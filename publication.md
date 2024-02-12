@@ -5,9 +5,9 @@ title: Fernando Lezama's Homepage
 
 Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiLCoAAAAJ&hl=es) or [DBLP](https://dblp.uni-trier.de/pers/hd/l/Lezama:Fernando). All articles that can be downloaded from this page are accepted versions, not final published versions.
 
-Publication of 100 peer-reviewed publications
+Publication of >100 peer-reviewed publications
 
-International Scientific Journals	39	
+International Scientific Journals	40	
 
 International Scientific Conferences	49	
 
@@ -15,7 +15,10 @@ Book Chapters & Articles in Books	12
 
 ---
 
-## Refereed Journal Papers (39)
+## Refereed Journal Papers (40)
+### 2024
+40\. Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. (2024). **Local electricity markets: A review on benefits, barriers, current trends and future perspectives.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212300864X), 190, 114006. IF: 15.9
+
 ### 2023
 39\. Almeida, J., Soares, J., Lezama, F., Vale, Z., & Francois, B. (2023). **Comparison of evolutionary algorithms for solving risk-based energy resource management considering conditional value-at-risk analysis.** [Mathematics and Computers in Simulation](https://www.sciencedirect.com/science/article/pii/S0378475423002902), IF: 4.6
 
