@@ -7,16 +7,18 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 Publication of >100 peer-reviewed publications
 
-International Scientific Journals	40	
+International Scientific Journals	41	
 
-International Scientific Conferences	49	
+International Scientific Conferences	50	
 
 Book Chapters & Articles in Books	12	
 
 ---
 
-## Refereed Journal Papers (40)
+## Refereed Journal Papers (41)
 ### 2024
+41\. Castañón, G., Martínez-Herrera, A. F., Sarmiento, A. M., Aragón-Zavala, A., & Lezama, F. (2024). **Comparative Analysis of Nature-Inspired Algorithms for Optimal Power Flow Problem: A Focus on Penalty-Vanishing Terms and Algorithm Performance.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/10440616).
+
 40\. Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. (2024). **Local electricity markets: A review on benefits, barriers, current trends and future perspectives.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212300864X), 190, 114006. IF: 15.9
 
 ### 2023
@@ -114,17 +116,19 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (49)
+## Refereed Conference Papers (50)
 ### 2023
-49\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+50\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
-48\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
+49\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
 
-47\. Almeida, J., Lezama, F., Soares, J., Macedo, L., Vale, Z., & Romero, R. (2023, July). Metaheuristic Optimization for Transmission Network Expansion Planning: Testebed 2 of the Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1668-1675).
+48\. Almeida, J., Lezama, F., Soares, J., Macedo, L., Vale, Z., & Romero, R. (2023, July). Metaheuristic Optimization for Transmission Network Expansion Planning: Testebed 2 of the Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1668-1675).
 
-46\. Cordero, L., Jaramillo-Leon, B., Leite, J., Franco, J., Almeida, J., Lezama, F., & Soares, J. (2023, July). Probabilistic-based Optimization for PV Hosting Capacity with Confidence Interval Restrictions. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1933-1940).
+47\. Cordero, L., Jaramillo-Leon, B., Leite, J., Franco, J., Almeida, J., Lezama, F., & Soares, J. (2023, July). Probabilistic-based Optimization for PV Hosting Capacity with Confidence Interval Restrictions. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1933-1940).
 
 ### 2022
+46\. de São José, D., Lezama, F., Faria, P., & Vale, Z. (2022, September). Use Cases for Contextual Load Flexibility Remuneration Strategies. In International Conference on Energy and Environment Research (pp. 687-695). Cham: Springer Nature Switzerland.
+
 45\. Foroozandeh, Z., Limmer, S., Lezama, F., Faia, R., Ramos, S., & Soares, J. (2022, October). A MBNLP Method for Centralized Energy Pricing and Scheduling in Local Energy Community. In 2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition–Latin America (IEEE PES GTD Latin America) (pp. 1-6). IEEE.
 
 44\. Lezama, F., Faia, R., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Low Voltage Grid Constraints. In 2022 18th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
