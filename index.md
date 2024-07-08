@@ -5,7 +5,10 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-February 2024: Associate Editor Journal	Artificial Intelligence Review, Springer (IF 12.00)
+July 2024: Check our latest publication. The article [“Modern distribution system expansion planning considering new market designs: Review and future directions”](https://www.sciencedirect.com/science/article/pii/S1364032124004350?dgcid=coauthor) by Tayenne Dias de Lima, Fernando Lezama, João Soares, John F. Franco, and Zita Vale, is available in Elsevier Renewable and Sustainable Energy Reviews (IF 16.3, Q1). 
+
+
+* February 2024: Associate Editor Journal	Artificial Intelligence Review, Springer (IF 12.00)
 
 * 07 February 2024: Part of the Program Committee “The IEEE World Congress on Computational Intelligence - Congress on Evolutionary Computation (CEC) IEEE WCCI 2024
 
