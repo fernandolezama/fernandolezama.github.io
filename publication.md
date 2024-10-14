@@ -7,16 +7,22 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 Publication of >100 peer-reviewed publications
 
-International Scientific Journals	41	
+International Scientific Journals	44	
 
-International Scientific Conferences	50	
+International Scientific Conferences	64	
 
 Book Chapters & Articles in Books	12	
 
 ---
 
-## Refereed Journal Papers (41)
+## Refereed Journal Papers (44)
 ### 2024
+44\. de Lima, T. D., Lezama, F., Soares, J., Franco, J. F., & Vale, Z. (2024). **Modern distribution system expansion planning considering new market designs: Review and future directions.** [Renewable and Sustainable Energy Reviews)(https://www.sciencedirect.com/science/article/pii/S1364032124004350), 202, 114709.
+
+43\. Soares, J., Lezama, F., Faia, R., Limmer, S., Dietrich, M., Rodemann, T., ... & Vale, Z. (2024). **Review on fairness in local energy systems.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924013163), 374, 123933. 
+
+42\. Castañón, G., Sarmiento, A. M., Martínez-Herrera, A. F., Aragón-Zavala, A., Lezama, F., & Vale, Z. (2024). **Comparative Analysis of Metaheuristics for Solving the Optimal Power Flow with Renewable Sources and Valve-Point Constraints.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/10602497).
+
 41\. Castañón, G., Martínez-Herrera, A. F., Sarmiento, A. M., Aragón-Zavala, A., & Lezama, F. (2024). **Comparative Analysis of Nature-Inspired Algorithms for Optimal Power Flow Problem: A Focus on Penalty-Vanishing Terms and Algorithm Performance.** [IEEE Access](https://ieeexplore.ieee.org/abstract/document/10440616).
 
 40\. Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. (2024). **Local electricity markets: A review on benefits, barriers, current trends and future perspectives.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S136403212300864X), 190, 114006. IF: 15.9
@@ -116,8 +122,37 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (50)
+## Refereed Conference Papers (64)
+### 2024
+64\. Almeida, J., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2024, July). Investigating Local Market Impact: An Hour-ahead Energy Resource Management Approach for EV Aggregator. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
+
+63\. Goncalves, C., Lezama, F., & Vale, Z. (2024, July). Analyzing the Impact of Pricing Strategies on Economic Fairness in Energy Communities. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
+
+62\. Lezama, F., Almeida, J., Soares, J., Vale, Z., Bai, W., Y. Lee, K., & Zhang, W. (2024, July). Assessing PV Integration with Evolutionary Algorithms: Insights from the 2024 Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1738-1744).
+
+61\. Goncalves, C., Lezama, F., & Vale, Z. (2024). Towards Fair Energy Communities: Integrating Storage, Sharing and Pricing Strategies. IFAC-PapersOnLine, 58(13), 320-325.
+
 ### 2023
+60\. Lezama, F., Almeida, J., Soares, J., & Vale, Z. (2023, December). Explainergy: Towards Explainability of Metaheuristic Performance in the Energy Field. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 783-788). IEEE.
+
+59\. Lezama, F., Almeida, J., Soares, J., Canizes, B., & Vale, Z. (2023, December). Insights into the 2022 WCCI-GECCO Competition: Statistical Analysis of Evolutionary Computation in the Energy Domain. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 789-794). IEEE.
+
+58\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Illuminating Metaheuristic Performance Using Vortex MAP-Elites for Risk-Based Energy Resource Management. In Energy Informatics Academy Conference (pp. 30-43). Cham: Springer Nature Switzerland.
+
+57\. de Lima, T. D., Reiz, C., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2023, December). Distributed Energy Resources and EV Charging Stations Expansion Planning for Grid-Connected Microgrids. In Energy Informatics Academy Conference (pp. 33-48). Cham: Springer Nature Switzerland.
+
+56\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Comparing Manual vs Automatic Tuning of Differential Evolution Strategies for Energy Resource Management Optimization. In Energy Informatics Academy Conference (pp. 44-59). Cham: Springer Nature Switzerland.
+
+55\. Barbarroxa, R., Silva, J., Gomes, L., Lezama, F., Ribeiro, B., & Vale, Z. (2023, July). FeDis: Federated Learning Framework Supported by Distributed Ledger. In International Congress on Blockchain and Applications (pp. 32-41). Cham: Springer Nature Switzerland. (<span style="color:#C31D1D;">Best application paper award</span>)[(link)](https://eem20.eu/best-paper-award-winners/) [(pdf)](pdf/EEM20_BestPaper3a.pdf)
+
+54\. Gomes, L., Ribeiro, B., Lezama, F., & Vale, Z. (2023, July). A Multi-Agent System Empowered by Federated Learning and Genetic Programming. In 31st Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
+
+53\. Oliveira, F., Lezama, F., Gomes, L., Soares, J., & Vale, Z. (2023, June). Risk assessment model based on centrifugal governors and artificial neural networks. In IEEE Conference on Artificial Intelligence (CAI) (pp. 218-219). IEEE.
+
+52\. Almeida, J., Barbarroxa, R., Lezama, F., Soares, J., Gomes, L., Oliveira, F., & Vale, Z. (2023, June). Meta-ERM: Metaheuristic Optimization Platform for Energy Resource Management in the Smart Grid. In IEEE Conference on Artificial Intelligence (CAI) (pp. 61-62). IEEE.
+
+51\. Bai, W., Lezama, F., & Lee, K. Y. (2023). Optimal Trading in Local Electricity Market Based on an Enhanced Evolutionary Algorithm with Distribution Estimation. IFAC-PapersOnLine, 56(2), 384-389.
+
 50\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
 49\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
