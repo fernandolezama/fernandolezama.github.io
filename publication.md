@@ -17,7 +17,7 @@ Book Chapters & Articles in Books	12
 
 ## Refereed Journal Papers (44)
 ### 2024
-44\. de Lima, T. D., Lezama, F., Soares, J., Franco, J. F., & Vale, Z. (2024). **Modern distribution system expansion planning considering new market designs: Review and future directions.** [Renewable and Sustainable Energy Reviews)(https://www.sciencedirect.com/science/article/pii/S1364032124004350), 202, 114709.
+44\. de Lima, T. D., Lezama, F., Soares, J., Franco, J. F., & Vale, Z. (2024). **Modern distribution system expansion planning considering new market designs: Review and future directions.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S1364032124004350), 202, 114709.
 
 43\. Soares, J., Lezama, F., Faia, R., Limmer, S., Dietrich, M., Rodemann, T., ... & Vale, Z. (2024). **Review on fairness in local energy systems.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924013163), 374, 123933. 
 
