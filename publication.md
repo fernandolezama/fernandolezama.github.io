@@ -7,7 +7,7 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 Publication of >100 peer-reviewed publications
 
-International Scientific Journals	47	
+International Scientific Journals	46	
 
 International Scientific Conferences	64	
 
@@ -15,15 +15,13 @@ Book Chapters & Articles in Books	12
 
 ---
 
-## Refereed Journal Papers (47)
+## Refereed Journal Papers (46)
 ### 2025
-47\. Lezama, F., Faia, R., Limmer, S., Foroozandeh, Z., Soares, J., Ramos, S., & Vale, Z. (2025). A scalable three-stage model for local energy community management and pricing. [CSEE Journal of Power and Energy Systems](https://ieeexplore.ieee.org/abstract/document/11006436).
+46\. Lezama, F., Faia, R., Limmer, S., Foroozandeh, Z., Soares, J., Ramos, S., & Vale, Z. (2025). A scalable three-stage model for local energy community management and pricing. [CSEE Journal of Power and Energy Systems](https://ieeexplore.ieee.org/abstract/document/11006436).
 
-46\. Almeida, J., Soares, J., Lezama, F., Limmer, S., Rodemann, T., & Vale, Z. (2025). A systematic review of explainability in computational intelligence for optimization. [Computer Science Review](https://www.sciencedirect.com/science/article/pii/S1574013725000401), 57, 100764.
+45\. Almeida, J., Soares, J., Lezama, F., Limmer, S., Rodemann, T., & Vale, Z. (2025). A systematic review of explainability in computational intelligence for optimization. [Computer Science Review](https://www.sciencedirect.com/science/article/pii/S1574013725000401), 57, 100764.
 
 ### 2024
-45\. Soares, J., Lezama, F., Faia, R., Limmer, S., Dietrich, M., Rodemann, T., Ramos, S., & Vale, Z. (2024). **Review on fairness in local energy systems.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924013163), 374, 123933.
-
 44\. de Lima, T. D., Lezama, F., Soares, J., Franco, J. F., & Vale, Z. (2024). **Modern distribution system expansion planning considering new market designs: Review and future directions.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S1364032124004350), 202, 114709.
 
 43\. Soares, J., Lezama, F., Faia, R., Limmer, S., Dietrich, M., Rodemann, T., ... & Vale, Z. (2024). **Review on fairness in local energy systems.** [Applied Energy](https://www.sciencedirect.com/science/article/pii/S0306261924013163), 374, 123933. 
