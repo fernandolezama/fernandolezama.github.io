@@ -127,8 +127,25 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (64)
+## Refereed Conference Papers (72)
+### 2025
+72\.  Almeida, J., Soares, J., Limmer, S., Lezama, F., & Ramos, S. (2025, February). Integrating Autonomous Electric Vehicle Charging Stations in Local Energy Communities. In 2025 15th International Conference on Power, Energy, and Electrical Engineering (CPEEE) (pp. 118-123). IEEE.
+
+71\. Couto, A., Algarvio, H., Lopes, F., Estanqueiro, A., Santos, G., Lezama, F., ... & Preto, I. (2025, May). From Day-Ahead to a 6-Hour Period-Ahead Market Adapted to the Stochastic Behaviour of Variable Energy Renewable Sources. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+
+70\. Montañez, L. E., Reyes-Luévano, J., Valentín-Coronado, L. M., Moctezuma, D., Lezama, F., & Vale, Z. (2025, March). HotSD-Net: Convolutional Neural Network for Estimation of Hot Spots in Photovoltaic Modules via Infrared Imaging. In 2025 IEEE Symposia on Computational Intelligence for Energy, Transport and Environmental Sustainability (CIETES) (pp. 1-6). IEEE.
+
+69\. Lezama, F., Faia, R., Vale, Z., & Johanndeiter, S. (2025, May). Evaluating Contracts for Difference as Private Hedging Instruments: A Sensitivity Analysis for Medium-Term Price Protection. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+
 ### 2024
+68\. Almeida, J., Soares, J., Limmer, S., Aliyan, E., Faia, R., Lezama, F., ... & Vale, Z. (2024, September). Community-based energy sharing using game theory approaches for benefit distribution. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
+
+67\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2024, September). Differential MAP-Elites Considering Energy Resource Management Behaviors in Power Distribution Networks. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-5). IEEE.
+
+66\. Lezama, F., Bairrao, D., Doria, F., & Vale, Z. (2024, September). Optimizing Energy Costs in Energy Communities: A Monthly Tariff Clustering Approach. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
+
+65\. Almeida, J., Lezama, F., Soares, J., Canizes, B., Castro, F., Puerta, G., ... & Romero, R. (2024). Hybrid-Adaptive Differential Evolution with Iterated Local Search for Long-Term Transmission Network Expansion Planning Optimization.
+
 64\. Almeida, J., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2024, July). Investigating Local Market Impact: An Hour-ahead Energy Resource Management Approach for EV Aggregator. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
 
 63\. Goncalves, C., Lezama, F., & Vale, Z. (2024, July). Analyzing the Impact of Pricing Strategies on Economic Fairness in Energy Communities. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
