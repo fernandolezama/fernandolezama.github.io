@@ -9,9 +9,9 @@ Publication of >100 peer-reviewed publications
 
 International Scientific Journals	46	
 
-International Scientific Conferences	64	
+International Scientific Conferences	78	
 
-Book Chapters & Articles in Books	12	
+Book Chapters & Articles in Books	6	
 
 ---
 
@@ -127,156 +127,167 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (72)
+## Refereed Conference Papers (78)
+
 ### 2025
-72\.  Almeida, J., Soares, J., Limmer, S., Lezama, F., & Ramos, S. (2025, February). Integrating Autonomous Electric Vehicle Charging Stations in Local Energy Communities. In 2025 15th International Conference on Power, Energy, and Electrical Engineering (CPEEE) (pp. 118-123). IEEE.
+78\.  Almeida, J., Soares, J., Limmer, S., Lezama, F., & Ramos, S. (2025, February). Integrating Autonomous Electric Vehicle Charging Stations in Local Energy Communities. In 2025 15th International Conference on Power, Energy, and Electrical Engineering (CPEEE) (pp. 118-123). IEEE.
 
-71\. Couto, A., Algarvio, H., Lopes, F., Estanqueiro, A., Santos, G., Lezama, F., ... & Preto, I. (2025, May). From Day-Ahead to a 6-Hour Period-Ahead Market Adapted to the Stochastic Behaviour of Variable Energy Renewable Sources. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+77\. Couto, A., Algarvio, H., Lopes, F., Estanqueiro, A., Santos, G., Lezama, F., ... & Preto, I. (2025, May). From Day-Ahead to a 6-Hour Period-Ahead Market Adapted to the Stochastic Behaviour of Variable Energy Renewable Sources. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
-70\. Montañez, L. E., Reyes-Luévano, J., Valentín-Coronado, L. M., Moctezuma, D., Lezama, F., & Vale, Z. (2025, March). HotSD-Net: Convolutional Neural Network for Estimation of Hot Spots in Photovoltaic Modules via Infrared Imaging. In 2025 IEEE Symposia on Computational Intelligence for Energy, Transport and Environmental Sustainability (CIETES) (pp. 1-6). IEEE.
+76\. Montañez, L. E., Reyes-Luévano, J., Valentín-Coronado, L. M., Moctezuma, D., Lezama, F., & Vale, Z. (2025, March). HotSD-Net: Convolutional Neural Network for Estimation of Hot Spots in Photovoltaic Modules via Infrared Imaging. In 2025 IEEE Symposia on Computational Intelligence for Energy, Transport and Environmental Sustainability (CIETES) (pp. 1-6). IEEE.
 
-69\. Lezama, F., Faia, R., Vale, Z., & Johanndeiter, S. (2025, May). Evaluating Contracts for Difference as Private Hedging Instruments: A Sensitivity Analysis for Medium-Term Price Protection. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+75\. Lezama, F., Faia, R., Vale, Z., & Johanndeiter, S. (2025, May). Evaluating Contracts for Difference as Private Hedging Instruments: A Sensitivity Analysis for Medium-Term Price Protection. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
 ### 2024
-68\. Almeida, J., Soares, J., Limmer, S., Aliyan, E., Faia, R., Lezama, F., ... & Vale, Z. (2024, September). Community-based energy sharing using game theory approaches for benefit distribution. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
+74\. Almeida, J., Soares, J., Limmer, S., Aliyan, E., Faia, R., Lezama, F., ... & Vale, Z. (2024, September). Community-based energy sharing using game theory approaches for benefit distribution. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
 
-67\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2024, September). Differential MAP-Elites Considering Energy Resource Management Behaviors in Power Distribution Networks. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-5). IEEE.
+73\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2024, September). Differential MAP-Elites Considering Energy Resource Management Behaviors in Power Distribution Networks. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-5). IEEE.
 
-66\. Lezama, F., Bairrao, D., Doria, F., & Vale, Z. (2024, September). Optimizing Energy Costs in Energy Communities: A Monthly Tariff Clustering Approach. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
+72\. Lezama, F., Bairrao, D., Doria, F., & Vale, Z. (2024, September). Optimizing Energy Costs in Energy Communities: A Monthly Tariff Clustering Approach. In 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP) (pp. 1-6). IEEE.
 
-65\. Almeida, J., Lezama, F., Soares, J., Canizes, B., Castro, F., Puerta, G., ... & Romero, R. (2024). Hybrid-Adaptive Differential Evolution with Iterated Local Search for Long-Term Transmission Network Expansion Planning Optimization.
+71\. Almeida, J., Lezama, F., Soares, J., Canizes, B., Castro, F., Puerta, G., ... & Romero, R. (2024). Hybrid-Adaptive Differential Evolution with Iterated Local Search for Long-Term Transmission Network Expansion Planning Optimization.
 
-64\. Almeida, J., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2024, July). Investigating Local Market Impact: An Hour-ahead Energy Resource Management Approach for EV Aggregator. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
+70\. Almeida, J., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2024, July). Investigating Local Market Impact: An Hour-ahead Energy Resource Management Approach for EV Aggregator. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
 
-63\. Goncalves, C., Lezama, F., & Vale, Z. (2024, July). Analyzing the Impact of Pricing Strategies on Economic Fairness in Energy Communities. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
+69\. Goncalves, C., Lezama, F., & Vale, Z. (2024, July). Analyzing the Impact of Pricing Strategies on Economic Fairness in Energy Communities. In 2024 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
 
-62\. Lezama, F., Almeida, J., Soares, J., Vale, Z., Bai, W., Y. Lee, K., & Zhang, W. (2024, July). Assessing PV Integration with Evolutionary Algorithms: Insights from the 2024 Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1738-1744).
+68\. Lezama, F., Almeida, J., Soares, J., Vale, Z., Bai, W., Y. Lee, K., & Zhang, W. (2024, July). Assessing PV Integration with Evolutionary Algorithms: Insights from the 2024 Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1738-1744).
 
-61\. Goncalves, C., Lezama, F., & Vale, Z. (2024). Towards Fair Energy Communities: Integrating Storage, Sharing and Pricing Strategies. IFAC-PapersOnLine, 58(13), 320-325.
+67\. Goncalves, C., Lezama, F., & Vale, Z. (2024). Towards Fair Energy Communities: Integrating Storage, Sharing and Pricing Strategies. IFAC-PapersOnLine, 58(13), 320-325.
 
 ### 2023
-60\. Lezama, F., Almeida, J., Soares, J., & Vale, Z. (2023, December). Explainergy: Towards Explainability of Metaheuristic Performance in the Energy Field. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 783-788). IEEE.
+66\. Lezama, F., Almeida, J., Soares, J., & Vale, Z. (2023, December). Explainergy: Towards Explainability of Metaheuristic Performance in the Energy Field. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 783-788). IEEE.
 
-59\. Lezama, F., Almeida, J., Soares, J., Canizes, B., & Vale, Z. (2023, December). Insights into the 2022 WCCI-GECCO Competition: Statistical Analysis of Evolutionary Computation in the Energy Domain. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 789-794). IEEE.
+65\. Lezama, F., Almeida, J., Soares, J., Canizes, B., & Vale, Z. (2023, December). Insights into the 2022 WCCI-GECCO Competition: Statistical Analysis of Evolutionary Computation in the Energy Domain. In IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 789-794). IEEE.
 
-58\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Illuminating Metaheuristic Performance Using Vortex MAP-Elites for Risk-Based Energy Resource Management. In Energy Informatics Academy Conference (pp. 30-43). Cham: Springer Nature Switzerland.
+64\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Illuminating Metaheuristic Performance Using Vortex MAP-Elites for Risk-Based Energy Resource Management. In Energy Informatics Academy Conference (pp. 30-43). Cham: Springer Nature Switzerland.
 
-57\. de Lima, T. D., Reiz, C., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2023, December). Distributed Energy Resources and EV Charging Stations Expansion Planning for Grid-Connected Microgrids. In Energy Informatics Academy Conference (pp. 33-48). Cham: Springer Nature Switzerland.
+63\. de Lima, T. D., Reiz, C., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2023, December). Distributed Energy Resources and EV Charging Stations Expansion Planning for Grid-Connected Microgrids. In Energy Informatics Academy Conference (pp. 33-48). Cham: Springer Nature Switzerland.
 
-56\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Comparing Manual vs Automatic Tuning of Differential Evolution Strategies for Energy Resource Management Optimization. In Energy Informatics Academy Conference (pp. 44-59). Cham: Springer Nature Switzerland.
+62\. Almeida, J., Lezama, F., Soares, J., & Vale, Z. (2023, December). Comparing Manual vs Automatic Tuning of Differential Evolution Strategies for Energy Resource Management Optimization. In Energy Informatics Academy Conference (pp. 44-59). Cham: Springer Nature Switzerland.
 
-55\. Barbarroxa, R., Silva, J., Gomes, L., Lezama, F., Ribeiro, B., & Vale, Z. (2023, July). FeDis: Federated Learning Framework Supported by Distributed Ledger. In International Congress on Blockchain and Applications (pp. 32-41). Cham: Springer Nature Switzerland. (<span style="color:#C31D1D;">Best application paper award</span>)[(link)](https://eem20.eu/best-paper-award-winners/) [(pdf)](pdf/EEM20_BestPaper3a.pdf)
+61\. Barbarroxa, R., Silva, J., Gomes, L., Lezama, F., Ribeiro, B., & Vale, Z. (2023, July). FeDis: Federated Learning Framework Supported by Distributed Ledger. In International Congress on Blockchain and Applications (pp. 32-41). Cham: Springer Nature Switzerland. (<span style="color:#C31D1D;">Best application paper award</span>)[(link)](https://eem20.eu/best-paper-award-winners/) [(pdf)](pdf/EEM20_BestPaper3a.pdf)
 
-54\. Gomes, L., Ribeiro, B., Lezama, F., & Vale, Z. (2023, July). A Multi-Agent System Empowered by Federated Learning and Genetic Programming. In 31st Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
+60\. Gomes, L., Ribeiro, B., Lezama, F., & Vale, Z. (2023, July). A Multi-Agent System Empowered by Federated Learning and Genetic Programming. In 31st Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
 
-53\. Oliveira, F., Lezama, F., Gomes, L., Soares, J., & Vale, Z. (2023, June). Risk assessment model based on centrifugal governors and artificial neural networks. In IEEE Conference on Artificial Intelligence (CAI) (pp. 218-219). IEEE.
+59\. Oliveira, F., Lezama, F., Gomes, L., Soares, J., & Vale, Z. (2023, June). Risk assessment model based on centrifugal governors and artificial neural networks. In IEEE Conference on Artificial Intelligence (CAI) (pp. 218-219). IEEE.
 
-52\. Almeida, J., Barbarroxa, R., Lezama, F., Soares, J., Gomes, L., Oliveira, F., & Vale, Z. (2023, June). Meta-ERM: Metaheuristic Optimization Platform for Energy Resource Management in the Smart Grid. In IEEE Conference on Artificial Intelligence (CAI) (pp. 61-62). IEEE.
+58\. Almeida, J., Barbarroxa, R., Lezama, F., Soares, J., Gomes, L., Oliveira, F., & Vale, Z. (2023, June). Meta-ERM: Metaheuristic Optimization Platform for Energy Resource Management in the Smart Grid. In IEEE Conference on Artificial Intelligence (CAI) (pp. 61-62). IEEE.
 
-51\. Bai, W., Lezama, F., & Lee, K. Y. (2023). Optimal Trading in Local Electricity Market Based on an Enhanced Evolutionary Algorithm with Distribution Estimation. IFAC-PapersOnLine, 56(2), 384-389.
+57\. Bai, W., Lezama, F., & Lee, K. Y. (2023). Optimal Trading in Local Electricity Market Based on an Enhanced Evolutionary Algorithm with Distribution Estimation. IFAC-PapersOnLine, 56(2), 384-389.
 
-50\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+56\. Lezama, F., Faia, R., Faria, P., & Vale, Z. (2023, June). Analysing the Impact of Local Electricity Transactions with EV Penetration on the Electrical Grid. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
-49\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
+55\. Santos, G., Faia, R., Lezama, F., & Vale, Z. (2023, June). Multilevel Electricity Trading Simulation considering Energy Communities Participation. In 2023 19th International Conference on the European Energy Market (EEM) (pp. 1-5). IEEE.
 
-48\. Almeida, J., Lezama, F., Soares, J., Macedo, L., Vale, Z., & Romero, R. (2023, July). Metaheuristic Optimization for Transmission Network Expansion Planning: Testebed 2 of the Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1668-1675).
+54\. Almeida, J., Lezama, F., Soares, J., Macedo, L., Vale, Z., & Romero, R. (2023, July). Metaheuristic Optimization for Transmission Network Expansion Planning: Testebed 2 of the Competition on Evolutionary Computation in the Energy Domain. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1668-1675).
 
-47\. Cordero, L., Jaramillo-Leon, B., Leite, J., Franco, J., Almeida, J., Lezama, F., & Soares, J. (2023, July). Probabilistic-based Optimization for PV Hosting Capacity with Confidence Interval Restrictions. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1933-1940).
+53\. Cordero, L., Jaramillo-Leon, B., Leite, J., Franco, J., Almeida, J., Lezama, F., & Soares, J. (2023, July). Probabilistic-based Optimization for PV Hosting Capacity with Confidence Interval Restrictions. In Proceedings of the Companion Conference on Genetic and Evolutionary Computation (pp. 1933-1940).
 
 ### 2022
-46\. de São José, D., Lezama, F., Faria, P., & Vale, Z. (2022, September). Use Cases for Contextual Load Flexibility Remuneration Strategies. In International Conference on Energy and Environment Research (pp. 687-695). Cham: Springer Nature Switzerland.
+52\. de São José, D., Lezama, F., Faria, P., & Vale, Z. (2022, September). Use Cases for Contextual Load Flexibility Remuneration Strategies. In International Conference on Energy and Environment Research (pp. 687-695). Cham: Springer Nature Switzerland.
 
-45\. Foroozandeh, Z., Limmer, S., Lezama, F., Faia, R., Ramos, S., & Soares, J. (2022, October). A MBNLP Method for Centralized Energy Pricing and Scheduling in Local Energy Community. In 2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition–Latin America (IEEE PES GTD Latin America) (pp. 1-6). IEEE.
+51\. Foroozandeh, Z., Limmer, S., Lezama, F., Faia, R., Ramos, S., & Soares, J. (2022, October). A MBNLP Method for Centralized Energy Pricing and Scheduling in Local Energy Community. In 2022 IEEE PES Generation, Transmission and Distribution Conference and Exposition–Latin America (IEEE PES GTD Latin America) (pp. 1-6). IEEE.
 
-44\. Lezama, F., Faia, R., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Low Voltage Grid Constraints. In 2022 18th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
+50\. Lezama, F., Faia, R., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Low Voltage Grid Constraints. In 2022 18th International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
 
-43\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022, October). Optimal Strategy of Energy Aggregators in the Energy and Regulation markets: Chance-Constrained Approach. In 2022 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe) (pp. 1-5). IEEE.
+49\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2022, October). Optimal Strategy of Energy Aggregators in the Energy and Regulation markets: Chance-Constrained Approach. In 2022 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe) (pp. 1-5). IEEE.
 
-42\. de Lima, T. D., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2022, June). Eco-friendly Planning of DG units and EV Charging Stations in Electrical Distribution Systems: A Multi-Objective Mixed Integer Linear Programming Model. In 2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) (pp. 1-6). IEEE.
+48\. de Lima, T. D., Soares, J., Lezama, F., Franco, J. F., & Vale, Z. (2022, June). Eco-friendly Planning of DG units and EV Charging Stations in Electrical Distribution Systems: A Multi-Objective Mixed Integer Linear Programming Model. In 2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) (pp. 1-6). IEEE.
 
-41\. Bairrão, D. R., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2022). Retail Electricity Tariffs for Electric Vehicles in Europe: A Multivariate Analysis in 4 European Countries. IFAC-PapersOnLine, 55(9), 303-308.
+47\. Bairrão, D. R., Soares, J., Canizes, B., Lezama, F., & Vale, Z. (2022). Retail Electricity Tariffs for Electric Vehicles in Europe: A Multivariate Analysis in 4 European Countries. IFAC-PapersOnLine, 55(9), 303-308.
 
-40\. Vieira, M., Faia, R., Lezama, F., & Vale, Z. (2022, June). A Sensitivity Analysis of PSO Parameters Solving the P2P Electricity Market Problem. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
+46\. Vieira, M., Faia, R., Lezama, F., & Vale, Z. (2022, June). A Sensitivity Analysis of PSO Parameters Solving the P2P Electricity Market Problem. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
 
-39\. Lacerda, E., Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2022, June). Metaheuristic optimization solving demand response contract markets with network validation. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
+45\. Lacerda, E., Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2022, June). Metaheuristic optimization solving demand response contract markets with network validation. In IEEE Congress on Evolutionary Computation (CEC) (pp. ). 2022.
 
-38\. Almeida, J., Lezama, F., Soares, J., Vale, Z., Canizes, B.: Preliminary Results of Advanced Heuristic Optimization in the Risk-based Energy Scheduling Competition. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. ). ACM, July, 2022.
+44\. Almeida, J., Lezama, F., Soares, J., Vale, Z., Canizes, B.: Preliminary Results of Advanced Heuristic Optimization in the Risk-based Energy Scheduling Competition. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. ). ACM, July, 2022.
 
-37\. Lezama, F., Soares, J., Foroozandeh, Z., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Community Storage Systems. In 2022 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
-
+43\. Lezama, F., Soares, J., Foroozandeh, Z., & Vale, Z. (2022, September). Bidding in Local Electricity Markets Considering Community Storage Systems. In 2022 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
 
 ### 2021
-36\. Lezama, F., Soares, J., Faia, R., Faria, P., & Vale, Z. (2021, September). Bidding in Local Energy Markets Considering Uncertainty from Renewables and Demand. In 2021 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
+42\. Lezama, F., Soares, J., Faia, R., Faria, P., & Vale, Z. (2021, September). Bidding in Local Energy Markets Considering Uncertainty from Renewables and Demand. In 2021 IEEE International Conference on Environment and Electrical Engineering and 2021 IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe) (pp. 1-6). IEEE.
 
-35\. Soares, J., Lezama, F., Trindade, A., Ramos, S., Canizes, B., & Vale, Z. (2021, October). Electric Vehicles Trips and Charging Simulator Considering the User Behaviour in a Smart City. In 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) (pp. 1-6). IEEE.
+41\. Soares, J., Lezama, F., Trindade, A., Ramos, S., Canizes, B., & Vale, Z. (2021, October). Electric Vehicles Trips and Charging Simulator Considering the User Behaviour in a Smart City. In 2021 IEEE PES Innovative Smart Grid Technologies Europe (ISGT Europe) (pp. 1-6). IEEE.
 
-34\. Almeida, J., Soares, J., Lezama, F., Canizes, B., & Vale, Z. (2021, December). Evolutionary Algorithms applied to the Intraday Energy Resource Scheduling in the Context of Multiple Aggregators. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 01-08). IEEE.
+40\. Almeida, J., Soares, J., Lezama, F., Canizes, B., & Vale, Z. (2021, December). Evolutionary Algorithms applied to the Intraday Energy Resource Scheduling in the Context of Multiple Aggregators. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 01-08). IEEE.
 
-33\. Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2021, December). A Statistical Analysis of Performance in the 2021 CEC-GECCO-PESGM Competition on Evolutionary Computation in the Energy Domain. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
+39\. Lezama, F., Soares, J., Canizes, B., & Vale, Z. (2021, December). A Statistical Analysis of Performance in the 2021 CEC-GECCO-PESGM Competition on Evolutionary Computation in the Energy Domain. In 2021 IEEE Symposium Series on Computational Intelligence (SSCI) (pp. 1-8). IEEE.
 
-32\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2021, September). Optimal Strategy of Energy Storage Aggregators in Ancillary Service Markets: Stochastic Programming Approach. In IEEE International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). 2021.
+38\. Khojasteh, M., Faria, P., Lezama, F., & Vale, Z. (2021, September). Optimal Strategy of Energy Storage Aggregators in Ancillary Service Markets: Stochastic Programming Approach. In IEEE International Conference on Smart Energy Systems and Technologies (SEST) (pp. 1-6). 2021.
 
-31\. Almeida, J., Soares, J., Canizes, B., Lezama, F., Fotouhi, M. A. G., & Vale, Z. (2021, June). Evolutionary Algorithms for Energy Scheduling under uncertainty considering Multiple Aggregators. In IEEE Congress on Evolutionary Computation (CEC) (pp. 225-232). 2021.
+37\. Almeida, J., Soares, J., Canizes, B., Lezama, F., Fotouhi, M. A. G., & Vale, Z. (2021, June). Evolutionary Algorithms for Energy Scheduling under uncertainty considering Multiple Aggregators. In IEEE Congress on Evolutionary Computation (CEC) (pp. 225-232). 2021.
 
-30\. Lacerda, E., Lezama, F., Soares, J., & Vale, Z. (2021, June). DSO Contract Market for Demand Response Using Evolutionary Computation. In IEEE Congress on Evolutionary Computation (CEC) (pp. 233-240). 2021.
+36\. Lacerda, E., Lezama, F., Soares, J., & Vale, Z. (2021, June). DSO Contract Market for Demand Response Using Evolutionary Computation. In IEEE Congress on Evolutionary Computation (CEC) (pp. 233-240). 2021.
+
+35\. Faia, R., Pinto, T., Lezama, F., Vale, Z., & Corchado, J. M. (2021, February). Optimisation for Coalitions Formation Considering the Fairness in Flexibility Market Participation. In E3S Web of Conferences (Vol. 239, p. 00016). EDP Sciences. (International Conference on Renewable Energy - ICREN 2020)
 
 ### 2020
 
-29\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House. In IEEE PES T&D Conference & Exposition, October 2020.
+34\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Multi-Objective Energy Bill Optimization Considering Demand Response in a Residential House. In IEEE PES T&D Conference & Exposition, October 2020.
 
-28\. Faia, R., Pinto, T., Lezama, F., Vale, Z., Corchado, J.M., and González-Briones, A.: Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level. In The Workshop on Artificial Intelligence in Power and Energy Systems (AIPES) part of European Conference on Artificial Intelligence (ECAI), August-September 2020.
+33\. Faia, R., Pinto, T., Lezama, F., Vale, Z., Corchado, J.M., and González-Briones, A.: Prosumers Flexibility as Support for Ancillary Services in Low Voltage Level. In The Workshop on Artificial Intelligence in Power and Energy Systems (AIPES) part of European Conference on Artificial Intelligence (ECAI), August-September 2020.
 
-27\. Lezama, F., Soares, J., Faia, R., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using a Nature-Inspired Algorithm. In International Conference on the European Energy Market (EEM), Stockholm, Swedem, September 2020. (<span style="color:#C31D1D;">Best paper award 3rd place</span>)[(link)](https://eem20.eu/best-paper-award-winners/) [(pdf)](pdf/EEM20_BestPaper3a.pdf)
+32\. Lezama, F., Soares, J., Faia, R., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using a Nature-Inspired Algorithm. In International Conference on the European Energy Market (EEM), Stockholm, Swedem, September 2020. (<span style="color:#C31D1D;">Best paper award 3rd place</span>)[(link)](https://eem20.eu/best-paper-award-winners/) [(pdf)](pdf/EEM20_BestPaper3a.pdf)
 
-26\. Lezama, F., Pinto, T., Faia, R., and Vale, Z.: Exploiting flexibility of end-users at DSO-TSO levels acting in dynamic coalitions. In IEEE PES General Meeting. August 2020.
+31\. Lezama, F., Pinto, T., Faia, R., and Vale, Z.: Exploiting flexibility of end-users at DSO-TSO levels acting in dynamic coalitions. In IEEE PES General Meeting. August 2020.
 
-25\. Lezama, F., Faia, R., Soares, J., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using Ant Colony Optimization (WCCI IEEE-CEC), Glasgow, UK, July 2020.
+30\. Lezama, F., Faia, R., Soares, J., Faria, P., and Vale, Z.: Learning Bidding Strategies in Local Electricity Markets using Ant Colony Optimization (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-24\. Soares, J., Lezama, F., Brisset, S., Francois, B., and Vale, Z.: Safety Isolating Transformer Design using HyDE-DF algorithm, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
+29\. Soares, J., Lezama, F., Brisset, S., Francois, B., and Vale, Z.: Safety Isolating Transformer Design using HyDE-DF algorithm, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-23\. Canizes, B, Soares, J., Lezama, F., and Vale, Z.: Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
+28\. Canizes, B, Soares, J., Lezama, F., and Vale, Z.: Complex Large-Scale Energy Resource Management Optimization Considering Demand Flexibility, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Glasgow, UK, July 2020.
 
-22\. Lezama, F., Faia, R., Faria, P., and Vale, Z.: Large-scale optimization of households with photovoltaic-battery system and demand response, In IFAC World Congress, July 2020.
+27\. Lezama, F., Faia, R., Faria, P., and Vale, Z.: Large-scale optimization of households with photovoltaic-battery system and demand response, In IFAC World Congress, July 2020.
 
 ### 2019
 
-21\. Lezama, F., Soares, J., and Vale, Z.: Optimal Bidding in Local Energy Markets using Evolutionary Computation, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
+26\. Lezama, F., Soares, J., and Vale, Z.: Optimal Bidding in Local Energy Markets using Evolutionary Computation, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
 
-20\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Differential Evolution Optimization for a Residential Demand Response Application, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
+25\. Faia, R., Lezama, F., Faria, P., and Vale, Z.: Differential Evolution Optimization for a Residential Demand Response Application, In International Conference on Intelligent System Application to Power Systems (ISAP), December 2019.
 
-19\. Lezama, F., Soares, J., Faia, R., Vale, Z., Macedo, L. H., and Romero, R.: Business models for flexibility of electric vehicles: evolutionary computation for a successful implementation. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1873-1878). ACM, July, 2019.
+24\. Lezama, F., Soares, J., Faia, R., Vale, Z., Macedo, L. H., and Romero, R.: Business models for flexibility of electric vehicles: evolutionary computation for a successful implementation. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 1873-1878). ACM, July, 2019.
 
-18\. Lezama, F., Soares, J., Faia, R., and Vale, Z.: Hybrid-adaptive differential evolution with decay function (HyDE-DF) applied to the 100-digit challenge competition on single objective numerical optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 7-8), ACM, July, 2019. [<span style="color:#C31D1D;">(Matlab Code)</span>](code/100-Digits-93Score-master.rar) [(Github-Repository)](https://github.com/fernandolezama/100-Digit-HyDEDF-93Digits)
+23\. Lezama, F., Soares, J., Faia, R., and Vale, Z.: Hybrid-adaptive differential evolution with decay function (HyDE-DF) applied to the 100-digit challenge competition on single objective numerical optimization. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (pp. 7-8), ACM, July, 2019. [<span style="color:#C31D1D;">(Matlab Code)</span>](code/100-Digits-93Score-master.rar) [(Github-Repository)](https://github.com/fernandolezama/100-Digit-HyDEDF-93Digits)
 
-17\. Cembranel, S. S., Lezama, F., Soares, J., Ramos, S., Gomes, A., and Vale, Z: A Short Review on Data Mining Techniques for Electricity Customers Characterization. In 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 194-199), March, 2019
+22\. Cembranel, S. S., Lezama, F., Soares, J., Ramos, S., Gomes, A., and Vale, Z: A Short Review on Data Mining Techniques for Electricity Customers Characterization. In 2019 IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 194-199), March, 2019
 
-16\. Joench, R. L., Soares, J., Lezama, F., Ramos, S., Gomes, A., and Vale, Z.: A Short Review on Smart Building Energy Resource Optimization. In IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 440-445), March, 2019.
+21\. Joench, R. L., Soares, J., Lezama, F., Ramos, S., Gomes, A., and Vale, Z.: A Short Review on Smart Building Energy Resource Optimization. In IEEE PES GTD Grand International Conference and Exposition Asia (GTD Asia) (pp. 440-445), March, 2019.
+
+20\. Lezama F., Munoz de Cote E., Farinelli A., Soares J., Pinto T., Vale Z. (2019) Distributed Constrained Optimization Towards Effective Agent-Based Microgrid Energy Resource Management. In: Moura Oliveira P., Novais P., Reis L. (eds) Progress in Artificial Intelligence. EPIA 2019. Lecture Notes in Computer Science, vol 11804. Springer, Cham. https://doi.org/10.1007/978-3-030-30241-2_37
 
 ### 2018
 
-15\. Sousa, T., Lezama, F., Soares, J., Ramos, S., Vale, Z.: A Flexibility Home Energy Management System to Support Agreggator Requests in Smart Grids. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018.
+19\. Sousa, T., Lezama, F., Soares, J., Ramos, S., Vale, Z.: A Flexibility Home Energy Management System to Support Agreggator Requests in Smart Grids. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018.
 
-14\. Faia, R., Pinto, T., Vale, Z., Corchado, J.M., Soares, J., Lezama, F.: Genetic Algorithms for Portfolio Optimization with Weighted Sum Approach. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018.
+18\. Faia, R., Pinto, T., Vale, Z., Corchado, J.M., Soares, J., Lezama, F.: Genetic Algorithms for Portfolio Optimization with Weighted Sum Approach. In IEEE Symposium Series on Computational Intelligence (SSCI), Bengaluru, India, November 2018.
 
-13\. Lezama, F., Soares, J., Faia, R., Pinto, T., and Vale, Z.: A New Hybrid-Adaptive Differential Evolution for a Smart Grid Application Under Uncertainty. In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
+17\. Lezama, F., Soares, J., Faia, R., Pinto, T., and Vale, Z.: A New Hybrid-Adaptive Differential Evolution for a Smart Grid Application Under Uncertainty. In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
 
-12\. Faia, R., Lezama, F., Pinto, T., Soares, J., Vale, Z., and Corchado, J.M.: Differential Evolution Application in Portfolio Optimization for Electricity Markets In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
+16\. Faia, R., Lezama, F., Pinto, T., Soares, J., Vale, Z., and Corchado, J.M.: Differential Evolution Application in Portfolio Optimization for Electricity Markets In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Rio de Janeiro, Brazil, July 2018.
 
-11\. Soares, J., Lezama, F., Canizes, B., Fotouhi, M.A., and Vale, Z.: Day-ahead stochastic scheduling model considering market transactions in smart grids, Power System Computation Conference (PSCC), Dublin, Ireland 11-15 June 2018.
+15\. Soares, J., Lezama, F., Canizes, B., Fotouhi, M.A., and Vale, Z.: Day-ahead stochastic scheduling model considering market transactions in smart grids, Power System Computation Conference (PSCC), Dublin, Ireland 11-15 June 2018.
+
+14\. Lezama, F., Soares, J., and Vale, Z.: A platform for testing the performance of metaheuristics solving the energy resource management problem in smart grids. In [Energy Informatics 2018](https://doi.org/10.1186/s42162-018-0046-y) (Suppl 1) :35
 
 ### 2017
 
-10\. Soares, J., Lezama, F., Ramos, S., Vale, Z., and Lopes, A.: A Residential Energy Management System with Offline Population-Based Optimization, In IEEE Symposium Series on Computational Intelligence (SSCI), Hawaii, USA, December 2017.
+13\. Soares, J., Lezama, F., Ramos, S., Vale, Z., and Lopes, A.: A Residential Energy Management System with Offline Population-Based Optimization, In IEEE Symposium Series on Computational Intelligence (SSCI), Hawaii, USA, December 2017.
 
-9\. Lezama, F., Munoz de Cote, E., Sucar, L.E., Soares, J., and Vale, Z.: Evolutionary framework for multi-dimensional signaling method applied to energy dispatch problems in smart grids, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
+12\. Lezama, F., Munoz de Cote, E., Sucar, L.E., Soares, J., and Vale, Z.: Evolutionary framework for multi-dimensional signaling method applied to energy dispatch problems in smart grids, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
+11\. Soares, J., Lezama, F., Vale, Z., Borges, N., and Kagan, N.: Multi-objective robust optimization to solve energy scheduling in buildings under uncertainty, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
 
-8\. Soares, J., Lezama, F., Vale, Z., Borges, N., and Kagan, N.: Multi-objective robust optimization to solve energy scheduling in buildings under uncertainty, In International Conference on Intelligent System Application to Power Systems (ISAP), San Antonio, TX, USA, September 2017.
-
-7\. Lezama, F., Soares, J., Munoz de Cote, E., Sucar, L. E., and Vale, Z.: Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids, In I Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO, Berlin, Germany, July 2017.
+10\. Lezama, F., Soares, J., Munoz de Cote, E., Sucar, L. E., and Vale, Z.: Differential Evolution Strategies for Large-Scale Energy Resource Management in Smart Grids, In I Workshop on Evolutionary Algorithms for Smart Grids (SmartEA) at GECCO, Berlin, Germany, July 2017.
 
 ### 2016
 
-6\. Lezama, F., Rodriguez-González, A.Y., and Munoz de Cote, E.: Load Pattern Clustering using Differential Evolution with Pareto Tournament, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Vancouver, Canada, July 2016.
+9\. Lezama, F., Rodriguez-González, A.Y., and Munoz de Cote, E.: Load Pattern Clustering using Differential Evolution with Pareto Tournament, In IEEE Congress on Evolutionary Computation (WCCI IEEE-CEC), Vancouver, Canada, July 2016.
+
+8\. Lezama F., Rodríguez A.Y., de Cote E.M., Sucar L.E. (2016) Electrical Load Pattern Shape Clustering Using Ant Colony Optimization. In: Squillero G., Burelli P. (eds) Applications of Evolutionary Computation. EvoApplications 2016. Lecture Notes in Computer Science, vol 9597. Springer, Cham. https://doi.org/10.1007/978-3-319-31204-0_32
+
+7\. Del-Valle-Soto C., Lezama F., Rodriguez J., Mex-Perera C., de Cote E.M. (2017) CML-WSN: A Configurable Multi-layer Wireless Sensor Network Simulator. In: Sucar E., Mayora O., Munoz de Cote E. (eds) Applications for Future Internet. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 179. Springer, Cham. https://doi.org/10.1007/978-3-319-49622-1_11
+
+6\. Lezama F., Palominos J., Rodríguez-González A.Y., Farinelli A., de Cote E.M. (2017) Optimal Scheduling of On/Off Cycles: A Decentralized IoT-Microgrid Approach. In: Sucar E., Mayora O., Munoz de Cote E. (eds) Applications for Future Internet. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 179. Springer, Cham. https://doi.org/10.1007/978-3-319-49622-1_10
 
 ### 2014
 
@@ -295,38 +306,23 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 1\. Castañón, G., Lezama, F., Sarmiento, A. M.: Wavelength converters placement in all optical networks using differential evolution optimization. In: Proceedings of the International Conference on Evolutionary Computation (ICEC), pp. 340–343, Valencia, Spain, 2010.
 
 ---
-
-## Book Chapters and Articles in Books (12)
+## Book Editions (1)
 
 ### 2022
 
-12\. Lezama, F. (2022). Data Mining and Analysis in Power and Energy Systems: An Introduction to Algorithms and Applications. Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems, 25-44. WILEY. https://doi.org/10.1002/9781119834052.ch2
+1\.Mahajan, V., Chowdhury, A., Padhy, N. P., & Lezama, F. (Eds.). (2022). Sustainable Technology and Advanced Computing in Electrical Engineering: Proceedings of ICSTACE 2021 (Vol. 939). Springer Nature. https://link.springer.com/book/10.1007/978-981-19-4364-5
 
-11\.Mahajan, V., Chowdhury, A., Padhy, N. P., & Lezama, F. (Eds.). (2022). Sustainable Technology and Advanced Computing in Electrical Engineering: Proceedings of ICSTACE 2021 (Vol. 939). Springer Nature. https://link.springer.com/book/10.1007/978-981-19-4364-5
+## Book Chapters (5)
+
+### 2022
+
+5\. Lezama, F. (2022). Data Mining and Analysis in Power and Energy Systems: An Introduction to Algorithms and Applications. Intelligent Data Mining and Analysis in Power and Energy Systems: Models and Applications for Smarter Efficient Power Systems, 25-44. WILEY. https://doi.org/10.1002/9781119834052.ch2
 
 ### 2021
 
-10\. Lezama, F., Pinto, T., Vale, Z., Santos, G., & Widergren, S. (2021). From the smart grid to the local electricity market. In Local Electricity Markets (pp. 63-76). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00023-X
+4\. Lezama, F., Pinto, T., Vale, Z., Santos, G., & Widergren, S. (2021). From the smart grid to the local electricity market. In Local Electricity Markets (pp. 63-76). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00023-X
 
-9\. Faia, R., Lezama, F., & Corchado, J. M. (2021). Local electricity markets—practical implementations. In Local Electricity Markets (pp. 127-140). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00005-8
-
-8\. Faia, R., Pinto, T., Lezama, F., Vale, Z., & Corchado, J. M. (2021, February). Optimisation for Coalitions Formation Considering the Fairness in Flexibility Market Participation. In E3S Web of Conferences (Vol. 239, p. 00016). EDP Sciences. (International Conference on Renewable Energy - ICREN 2020)
-
-### 2019
-
-7\. Lezama F., Munoz de Cote E., Farinelli A., Soares J., Pinto T., Vale Z. (2019) Distributed Constrained Optimization Towards Effective Agent-Based Microgrid Energy Resource Management. In: Moura Oliveira P., Novais P., Reis L. (eds) Progress in Artificial Intelligence. EPIA 2019. Lecture Notes in Computer Science, vol 11804. Springer, Cham. https://doi.org/10.1007/978-3-030-30241-2_37
-
-### 2018
-
-6\. Lezama, F., Soares, J., and Vale, Z.: A platform for testing the performance of metaheuristics solving the energy resource management problem in smart grids. In [Energy Informatics 2018](https://doi.org/10.1186/s42162-018-0046-y) (Suppl 1) :35
-
-### 2016
-
-5\. Lezama F., Rodríguez A.Y., de Cote E.M., Sucar L.E. (2016) Electrical Load Pattern Shape Clustering Using Ant Colony Optimization. In: Squillero G., Burelli P. (eds) Applications of Evolutionary Computation. EvoApplications 2016. Lecture Notes in Computer Science, vol 9597. Springer, Cham. https://doi.org/10.1007/978-3-319-31204-0_32
-
-4\. Del-Valle-Soto C., Lezama F., Rodriguez J., Mex-Perera C., de Cote E.M. (2017) CML-WSN: A Configurable Multi-layer Wireless Sensor Network Simulator. In: Sucar E., Mayora O., Munoz de Cote E. (eds) Applications for Future Internet. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 179. Springer, Cham. https://doi.org/10.1007/978-3-319-49622-1_11
-
-3\. Lezama F., Palominos J., Rodríguez-González A.Y., Farinelli A., de Cote E.M. (2017) Optimal Scheduling of On/Off Cycles: A Decentralized IoT-Microgrid Approach. In: Sucar E., Mayora O., Munoz de Cote E. (eds) Applications for Future Internet. Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering, vol 179. Springer, Cham. https://doi.org/10.1007/978-3-319-49622-1_10
+3\. Faia, R., Lezama, F., & Corchado, J. M. (2021). Local electricity markets—practical implementations. In Local Electricity Markets (pp. 127-140). Academic Press. Elsevier. https://doi.org/10.1016/B978-0-12-820074-2.00005-8
 
 ### 2015
 
