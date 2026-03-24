@@ -7,19 +7,22 @@ Please also see [Google Scholar](https://scholar.google.com/citations?user=LIpiL
 
 Publication of >100 peer-reviewed publications
 
-International Scientific Journals	46	
+International Scientific Journals	47	
 
-International Scientific Conferences	78	
+International Scientific Conferences	84	
 
 Book Chapters & Articles in Books	6	
 
 ---
 
-## Refereed Journal Papers (46)
-### 2025
-46\. Lezama, F., Faia, R., Limmer, S., Foroozandeh, Z., Soares, J., Ramos, S., & Vale, Z. (2025). A scalable three-stage model for local energy community management and pricing. [CSEE Journal of Power and Energy Systems](https://ieeexplore.ieee.org/abstract/document/11006436).
+## Refereed Journal Papers (47)
+### 2026
+47\. Lezama et al. Strategic Bidding in Local Electricity Markets with Distributed Resources and Grid Constraints. SEGAN
 
-45\. Almeida, J., Soares, J., Lezama, F., Limmer, S., Rodemann, T., & Vale, Z. (2025). A systematic review of explainability in computational intelligence for optimization. [Computer Science Review](https://www.sciencedirect.com/science/article/pii/S1574013725000401), 57, 100764.
+### 2025
+46\. Lezama, F., Faia, R., Limmer, S., Foroozandeh, Z., Soares, J., Ramos, S., & Vale, Z. (2025). **A scalable three-stage model for local energy community management and pricing.** [CSEE Journal of Power and Energy Systems](https://ieeexplore.ieee.org/abstract/document/11006436).
+
+45\. Almeida, J., Soares, J., Lezama, F., Limmer, S., Rodemann, T., & Vale, Z. (2025). **A systematic review of explainability in computational intelligence for optimization.** [Computer Science Review](https://www.sciencedirect.com/science/article/pii/S1574013725000401), 57, 100764.
 
 ### 2024
 44\. de Lima, T. D., Lezama, F., Soares, J., Franco, J. F., & Vale, Z. (2024). **Modern distribution system expansion planning considering new market designs: Review and future directions.** [Renewable and Sustainable Energy Reviews](https://www.sciencedirect.com/science/article/pii/S1364032124004350), 202, 114709.
@@ -127,9 +130,25 @@ Elsevier (2021). IF: 3.588.[<span style="color:#1dc31d;">(Github-Repository)</sp
 
 ---
 
-## Refereed Conference Papers (78)
+## Refereed Conference Papers (84)
+
+### 2026
+
 
 ### 2025
+84\. Fernando Lezama, Filipe Doria, Jose Almeida, Joao Soares, and Zita Vale (2025). Fair Pricing Optimization in Energy Communities with Differential Evolution. Proceedings of the International Workshop on
+AI Systems for the Environment (AISE-2025) Co-located with the 28th European Conference on Artificial intelligence (ECAI-2025)
+
+83\. Gomes, L., Santos, G., Lezama, F., Faria, P., & Vale, Z. (2025, October). Power Network Validation of Energy Trades: A 2030 Study of the Iberian Transmission System. In 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe) (pp. 1-5). IEEE.
+
+82\. Castro, F., Soares, J., Lezama, F., & Vale, Z. (2025, October). Multi-Investment Two-Stage Stochastic Optimal Planning Model Considering Uncertainty and Remuneration. In 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe) (pp. 1-5). IEEE.
+
+81\. Bai, W., Ding, T., Almeida, J., Soares, J., Lezama, F., Martinez-López, Y., ... & Lee, K. Y. (2025, July). Using an Improved Estimation Distribution Algorithm for PV System Integration on Unbalanced Networks. In 2025 IEEE Power & Energy Society General Meeting (PESGM) (pp. 1-5). IEEE.
+
+80\. Doria, F., Bairrao, D., Lezama, F., & Vale, Z. (2025, June). Forecasting Electricity Prices in Energy Communities: A Comparative Analysis in the Portuguese Retail Market. In 2025 IEEE Kiel PowerTech (pp. 1-6). IEEE.
+
+79\. Anitha, A. E., Handel, K., Haubrock, J., Bauer, P., Benesch, C., Lezama, F., ... & Cejka, S. (2025, May). Concept of a probabilistic digital twin for the monitoring and control of low-voltage grids. In ETG Kongress 2025; Voller Energie–heute und morgen. (pp. 783-789). VDE.
+
 78\.  Almeida, J., Soares, J., Limmer, S., Lezama, F., & Ramos, S. (2025, February). Integrating Autonomous Electric Vehicle Charging Stations in Local Energy Communities. In 2025 15th International Conference on Power, Energy, and Electrical Engineering (CPEEE) (pp. 118-123). IEEE.
 
 77\. Couto, A., Algarvio, H., Lopes, F., Estanqueiro, A., Santos, G., Lezama, F., ... & Preto, I. (2025, May). From Day-Ahead to a 6-Hour Period-Ahead Market Adapted to the Stochastic Behaviour of Variable Energy Renewable Sources. In 2025 21st International Conference on the European Energy Market (EEM) (pp. 1-6). IEEE.
