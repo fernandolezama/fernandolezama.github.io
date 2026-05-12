@@ -5,10 +5,19 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-July 2024: Check our latest publication. The article [“Modern distribution system expansion planning considering new market designs: Review and future directions”](https://www.sciencedirect.com/science/article/pii/S1364032124004350?dgcid=coauthor) by Tayenne Dias de Lima, Fernando Lezama, João Soares, John F. Franco, and Zita Vale, is available in Elsevier Renewable and Sustainable Energy Reviews (IF 16.3, Q1). 
+March 2026: Check our latest publication. The article [Strategic bidding in local electricity markets with distributed resources and grid constraints] (https://www.sciencedirect.com/science/article/pii/S2352467726001025) by Fernando Lezama, Tayenne Dias de Lima, Fábio Castro, and Zita Vale, is available in Elsevier Sustainable Energy, Grids and Networks (IF 5.6).
 
+* May 2026: I will attend the IEEE World Congress on Computational Intelligence (WCCI 2026) in Maastricht, the Netherlands, on 21-26 June 2026.
+
+* May 2026: Signed the ISEP CTFP under the CEEC Individual 7th Edition, starting a new position as Auxiliary Researcher.
 
 * February 2024: Associate Editor Journal	Artificial Intelligence Review, Springer (IF 12.00)
+  
+* December 2023: I received the IEEE Senior Member recognition.
+
+
+{% comment %}
+July 2024: Check our latest publication. The article [“Modern distribution system expansion planning considering new market designs: Review and future directions”](https://www.sciencedirect.com/science/article/pii/S1364032124004350?dgcid=coauthor) by Tayenne Dias de Lima, Fernando Lezama, João Soares, John F. Franco, and Zita Vale, is available in Elsevier Renewable and Sustainable Energy Reviews (IF 16.3, Q1). 
 
 * 07 February 2024: Part of the Program Committee “The IEEE World Congress on Computational Intelligence - Congress on Evolutionary Computation (CEC) IEEE WCCI 2024
 
@@ -19,11 +28,7 @@ July 2024: Check our latest publication. The article [“Modern distribution sys
 * 01 January 2024: Check our latest publication. The article [“Local electricity markets: A review on benefits, barriers, current trends and future perspectives”](https://www.sciencedirect.com/science/article/pii/S136403212300864X) by Faia, R., Lezama, F., Soares, J., Pinto, T., & Vale, Z. is available in Elsevier Renewable and Sustainable Energy Reviews (IF 15.9, Q1).
   
 * 04 January 2024: Part of the Program Committee “16th International Conference on Evolutionary Computation Theory and Applications” - ECTA 2024.
-  
-* December 2023: I received the IEEE Senior Member recognition.
 
-
-{% comment %}
 * 05 May 2023: Check our latest publication. The article [“A novel adaptive robust model for scheduling distributed energy resources in local electricity and flexibility markets”](https://www.sciencedirect.com/science/article/pii/S0306261923005081) by Meysam Khojasteh, Pedro Faria, Fernando Lezama, and Zita Vale is available in Elsevier Applied Energy (IF 11.446, Q1). 
 
 * 05 May 2023:  Part of the [Program Committee](https://ecta.scitevents.org/ProgramCommittee.aspx) “15th International Conference on Evolutionary Computation Theory and Applications” - [ECTA 2023](https://ecta.scitevents.org).
