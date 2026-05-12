@@ -17,7 +17,7 @@ Book Chapters & Articles in Books	6
 
 ## Refereed Journal Papers (47)
 ### 2026
-47\. Lezama et al. Strategic Bidding in Local Electricity Markets with Distributed Resources and Grid Constraints. SEGAN
+47\. Lezama, F., de Lima, T. D., Castro, F., & Vale, Z. (2026). **Strategic Bidding in Local Electricity Markets with Distributed Resources and Grid Constraints.** [Sustainable Energy, Grids and Networks](https://www.sciencedirect.com/science/article/pii/S2352467726001025), 102220.
 
 ### 2025
 46\. Lezama, F., Faia, R., Limmer, S., Foroozandeh, Z., Soares, J., Ramos, S., & Vale, Z. (2025). **A scalable three-stage model for local energy community management and pricing.** [CSEE Journal of Power and Energy Systems](https://ieeexplore.ieee.org/abstract/document/11006436).
