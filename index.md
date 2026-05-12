@@ -5,7 +5,7 @@ title: Fernando Lezama's Homepage
 
 
 ## NEWS
-March 2026: Check our latest publication. The article [Strategic bidding in local electricity markets with distributed resources and grid constraints] (https://www.sciencedirect.com/science/article/pii/S2352467726001025) by Fernando Lezama, Tayenne Dias de Lima, Fábio Castro, and Zita Vale, is available in Elsevier Sustainable Energy, Grids and Networks (IF 5.6).
+March 2026: Check our latest publication. The article [Strategic bidding in local electricity markets with distributed resources and grid constraints](https://www.sciencedirect.com/science/article/pii/S2352467726001025) by Fernando Lezama, Tayenne Dias de Lima, Fábio Castro, and Zita Vale, is available in Elsevier Sustainable Energy, Grids and Networks (IF 5.6).
 
 * May 2026: I will attend the IEEE World Congress on Computational Intelligence (WCCI 2026) in Maastricht, the Netherlands, on 21-26 June 2026.
 
