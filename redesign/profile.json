@@ -1,0 +1,43 @@
+{
+  "affiliations": [
+    {
+      "organization": "GECAD",
+      "role": "Researcher",
+      "detail": "Research Group on Intelligent Engineering and Computing for Advanced Innovation and Development"
+    },
+    {
+      "organization": "LASI",
+      "role": "Researcher",
+      "detail": "Associated Laboratory of Intelligent Systems"
+    },
+    {
+      "organization": "ISEP / Polytechnic of Porto",
+      "role": "Auxiliary Researcher",
+      "detail": "Porto, Portugal"
+    }
+  ],
+  "professional_service": [
+    {
+      "organization": "IEEE",
+      "role": "Senior Member",
+      "detail": "Since 2023"
+    },
+    {
+      "organization": "IEEE CIS Conference Competitions Subcommittee",
+      "role": "Member",
+      "detail": "IEEE Computational Intelligence Society"
+    },
+    {
+      "organization": "IEEE ISATC TF3",
+      "role": "Vice-Chair",
+      "detail": "CI in the Energy Domain",
+      "url": "https://cis.ieee.org/committees/technical-committees/intelligent-systems-applications-technical-committee"
+    },
+    {
+      "organization": "Artificial Intelligence Review",
+      "role": "Associate Editor",
+      "detail": "Springer",
+      "url": "https://link.springer.com/journal/10462/editorial-board"
+    }
+  ]
+}
