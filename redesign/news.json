@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-05",
+    "category": "Research",
+    "title": "FAIR-CI: fairness in local energy systems",
+    "text": "My research project FAIR-CI is supported by FCT through the Individual Call to Scientific Employment Stimulus (CEECIND), 7th Edition. In May 2026, I started a new position as Auxiliary Researcher at ISEP.",
+    "link": {
+      "label": "About FAIR-CI",
+      "url": "#research"
+    }
+  },
+  {
+    "date": "2026-03",
+    "category": "Publication",
+    "title": "Strategic bidding in local electricity markets",
+    "text": "Our article on strategic bidding with distributed resources and grid constraints is available in Sustainable Energy, Grids and Networks. With Tayenne Dias de Lima, Fabio Castro and Zita Vale.",
+    "link": {
+      "label": "Read the article",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2352467726001025"
+    }
+  },
+  {
+    "date": "2024-02",
+    "category": "Academic service",
+    "title": "Associate Editor of Artificial Intelligence Review",
+    "text": "I joined the editorial team of Artificial Intelligence Review as an Associate Editor.",
+    "link": null
+  },
+  {
+    "date": "2023-12",
+    "category": "Recognition",
+    "title": "IEEE Senior Member recognition",
+    "text": "I received IEEE Senior Member recognition in December 2023.",
+    "link": null
+  }
+]
